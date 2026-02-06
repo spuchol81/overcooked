@@ -1,0 +1,2000 @@
+{"create": {}}
+{"@timestamp": "2025-06-14T10:00:00.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.3, "meat_temperature_c": 10.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:00:33.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.6, "meat_temperature_c": 10.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:01:06.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.8, "meat_temperature_c": 10.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:01:39.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.0, "meat_temperature_c": 10.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:02:12.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.0, "meat_temperature_c": 10.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:02:45.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.0, "meat_temperature_c": 11.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:03:18.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.0, "meat_temperature_c": 11.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:03:51.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.5, "meat_temperature_c": 11.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:04:24.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.2, "meat_temperature_c": 11.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:04:58.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.7, "meat_temperature_c": 11.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:05:31.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.8, "meat_temperature_c": 12.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:06:04.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.9, "meat_temperature_c": 12.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:06:37.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.3, "meat_temperature_c": 12.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:07:10.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.5, "meat_temperature_c": 12.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:07:43.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.0, "meat_temperature_c": 12.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:08:16.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.2, "meat_temperature_c": 13.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:08:49.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.1, "meat_temperature_c": 13.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:09:23.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.5, "meat_temperature_c": 13.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:09:56.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.2, "meat_temperature_c": 13.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:10:29.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.8, "meat_temperature_c": 13.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:11:02.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.5, "meat_temperature_c": 14.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:11:35.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.3, "meat_temperature_c": 14.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:12:08.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.6, "meat_temperature_c": 14.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:12:41.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.5, "meat_temperature_c": 14.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:13:14.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.2, "meat_temperature_c": 14.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:13:48.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.1, "meat_temperature_c": 15.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:14:21.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.9, "meat_temperature_c": 15.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:14:54.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.6, "meat_temperature_c": 15.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:15:27.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.5, "meat_temperature_c": 15.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:16:00.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.8, "meat_temperature_c": 15.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:16:33.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.7, "meat_temperature_c": 16.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:17:06.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.9, "meat_temperature_c": 16.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:17:39.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.6, "meat_temperature_c": 16.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:18:12.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.0, "meat_temperature_c": 16.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:18:46.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.2, "meat_temperature_c": 16.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:19:19.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.9, "meat_temperature_c": 17.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:19:52.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.2, "meat_temperature_c": 17.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:20:25.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.2, "meat_temperature_c": 17.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:20:58.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.4, "meat_temperature_c": 17.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:21:31.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.2, "meat_temperature_c": 17.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:22:04.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.1, "meat_temperature_c": 18.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:22:37.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.2, "meat_temperature_c": 18.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:23:11.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.5, "meat_temperature_c": 18.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:23:44.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.8, "meat_temperature_c": 18.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:24:17.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.9, "meat_temperature_c": 18.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:24:50.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.1, "meat_temperature_c": 19.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:25:23.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.5, "meat_temperature_c": 19.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:25:56.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.9, "meat_temperature_c": 19.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:26:29.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.1, "meat_temperature_c": 19.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:27:02.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.7, "meat_temperature_c": 19.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:27:36.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 114.0, "meat_temperature_c": 20.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:28:09.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.2, "meat_temperature_c": 20.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:28:42.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.5, "meat_temperature_c": 20.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:29:15.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.0, "meat_temperature_c": 20.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:29:48.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.8, "meat_temperature_c": 20.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:30:21.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.4, "meat_temperature_c": 21.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:30:54.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.9, "meat_temperature_c": 21.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:31:27.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.0, "meat_temperature_c": 21.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:32:00.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.8, "meat_temperature_c": 21.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:32:34.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.3, "meat_temperature_c": 21.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:33:07.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.9, "meat_temperature_c": 22.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:33:40.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.0, "meat_temperature_c": 22.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:34:13.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.2, "meat_temperature_c": 22.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:34:46.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.3, "meat_temperature_c": 22.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:35:19.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.4, "meat_temperature_c": 22.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:35:52.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.6, "meat_temperature_c": 23.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:36:25.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.7, "meat_temperature_c": 23.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:36:59.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.3, "meat_temperature_c": 23.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:37:32.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.2, "meat_temperature_c": 23.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:38:05.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.8, "meat_temperature_c": 23.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:38:38.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.0, "meat_temperature_c": 24.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:39:11.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.9, "meat_temperature_c": 24.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:39:44.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.9, "meat_temperature_c": 24.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:40:17.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.3, "meat_temperature_c": 24.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:40:50.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.9, "meat_temperature_c": 24.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:41:24.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.2, "meat_temperature_c": 25.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:41:57.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.9, "meat_temperature_c": 25.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:42:30.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.1, "meat_temperature_c": 25.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:43:03.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.1, "meat_temperature_c": 25.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:43:36.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.0, "meat_temperature_c": 25.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:44:09.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.2, "meat_temperature_c": 26.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:44:42.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.7, "meat_temperature_c": 26.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:45:15.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.1, "meat_temperature_c": 26.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:45:48.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.4, "meat_temperature_c": 26.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:46:22.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.9, "meat_temperature_c": 26.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:46:55.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.6, "meat_temperature_c": 27.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:47:28.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.3, "meat_temperature_c": 27.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:48:01.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.2, "meat_temperature_c": 27.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:48:34.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.6, "meat_temperature_c": 27.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:49:07.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.5, "meat_temperature_c": 27.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:49:40.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.6, "meat_temperature_c": 28.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:50:13.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.0, "meat_temperature_c": 28.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:50:47.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.8, "meat_temperature_c": 28.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:51:20.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.4, "meat_temperature_c": 28.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:51:53.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.9, "meat_temperature_c": 28.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:52:26.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.0, "meat_temperature_c": 29.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:52:59.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.0, "meat_temperature_c": 29.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:53:32.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.7, "meat_temperature_c": 29.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:54:05.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.1, "meat_temperature_c": 29.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:54:38.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.4, "meat_temperature_c": 29.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:55:12.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.0, "meat_temperature_c": 30.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:55:45.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.7, "meat_temperature_c": 30.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:56:18.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.6, "meat_temperature_c": 30.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:56:51.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.8, "meat_temperature_c": 30.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:57:24.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.1, "meat_temperature_c": 30.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:57:57.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.5, "meat_temperature_c": 31.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:58:30.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.1, "meat_temperature_c": 31.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:59:03.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.1, "meat_temperature_c": 31.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T10:59:36.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.6, "meat_temperature_c": 31.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:00:10.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.2, "meat_temperature_c": 31.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:00:43.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.9, "meat_temperature_c": 32.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:01:16.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.3, "meat_temperature_c": 32.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:01:49.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.7, "meat_temperature_c": 32.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:02:22.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.3, "meat_temperature_c": 32.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:02:55.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.6, "meat_temperature_c": 32.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:03:28.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.2, "meat_temperature_c": 33.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:04:01.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.7, "meat_temperature_c": 33.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:04:35.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.0, "meat_temperature_c": 33.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:05:08.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.8, "meat_temperature_c": 33.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:05:41.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.2, "meat_temperature_c": 33.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:06:14.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.1, "meat_temperature_c": 34.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:06:47.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.0, "meat_temperature_c": 34.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:07:20.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.6, "meat_temperature_c": 34.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:07:53.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.2, "meat_temperature_c": 34.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:08:26.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.9, "meat_temperature_c": 34.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:09:00.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.7, "meat_temperature_c": 35.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:09:33.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.4, "meat_temperature_c": 35.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:10:06.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.3, "meat_temperature_c": 35.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:10:39.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.5, "meat_temperature_c": 35.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:11:12.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.0, "meat_temperature_c": 35.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:11:45.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.8, "meat_temperature_c": 36.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:12:18.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.0, "meat_temperature_c": 36.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:12:51.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.0, "meat_temperature_c": 36.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:13:24.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.0, "meat_temperature_c": 36.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:13:58.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.0, "meat_temperature_c": 36.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:14:31.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.6, "meat_temperature_c": 37.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:15:04.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.0, "meat_temperature_c": 37.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:15:37.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.4, "meat_temperature_c": 37.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:16:10.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.8, "meat_temperature_c": 37.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:16:43.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.5, "meat_temperature_c": 37.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:17:16.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.5, "meat_temperature_c": 38.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:17:49.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.4, "meat_temperature_c": 38.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:18:23.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.9, "meat_temperature_c": 38.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:18:56.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.8, "meat_temperature_c": 38.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:19:29.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 114.0, "meat_temperature_c": 38.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:20:02.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.9, "meat_temperature_c": 39.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:20:35.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.9, "meat_temperature_c": 39.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:21:08.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.8, "meat_temperature_c": 39.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:21:41.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.0, "meat_temperature_c": 39.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:22:14.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.4, "meat_temperature_c": 39.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:22:48.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.9, "meat_temperature_c": 40.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:23:21.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.6, "meat_temperature_c": 40.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:23:54.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.7, "meat_temperature_c": 40.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:24:27.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.9, "meat_temperature_c": 40.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:25:00.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.9, "meat_temperature_c": 40.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:25:33.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.0, "meat_temperature_c": 41.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:26:06.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.5, "meat_temperature_c": 41.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:26:39.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.1, "meat_temperature_c": 41.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:27:12.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.2, "meat_temperature_c": 41.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:27:46.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.1, "meat_temperature_c": 41.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:28:19.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.6, "meat_temperature_c": 42.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:28:52.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.3, "meat_temperature_c": 42.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:29:25.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.4, "meat_temperature_c": 42.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:29:58.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.8, "meat_temperature_c": 42.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:30:31.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.4, "meat_temperature_c": 42.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:31:04.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.7, "meat_temperature_c": 43.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:31:37.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.5, "meat_temperature_c": 43.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:32:11.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.6, "meat_temperature_c": 43.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:32:44.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.4, "meat_temperature_c": 43.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:33:17.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.2, "meat_temperature_c": 43.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:33:50.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.4, "meat_temperature_c": 44.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:34:23.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.5, "meat_temperature_c": 44.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:34:56.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.2, "meat_temperature_c": 44.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:35:29.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.8, "meat_temperature_c": 44.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:36:02.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.8, "meat_temperature_c": 44.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:36:36.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.4, "meat_temperature_c": 45.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:37:09.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.9, "meat_temperature_c": 45.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:37:42.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.8, "meat_temperature_c": 45.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:38:15.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.6, "meat_temperature_c": 45.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:38:48.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.6, "meat_temperature_c": 45.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:39:21.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.2, "meat_temperature_c": 46.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:39:54.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.5, "meat_temperature_c": 46.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:40:27.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.9, "meat_temperature_c": 46.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:41:00.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.7, "meat_temperature_c": 46.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:41:34.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.3, "meat_temperature_c": 46.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:42:07.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.4, "meat_temperature_c": 47.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:42:40.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.9, "meat_temperature_c": 47.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:43:13.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.5, "meat_temperature_c": 47.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:43:46.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.2, "meat_temperature_c": 47.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:44:19.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.6, "meat_temperature_c": 47.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:44:52.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.3, "meat_temperature_c": 48.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:45:25.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.2, "meat_temperature_c": 48.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:45:59.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.5, "meat_temperature_c": 48.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:46:32.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.2, "meat_temperature_c": 48.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:47:05.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.4, "meat_temperature_c": 48.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:47:38.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.8, "meat_temperature_c": 49.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:48:11.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.8, "meat_temperature_c": 49.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:48:44.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.7, "meat_temperature_c": 49.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:49:17.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.2, "meat_temperature_c": 49.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:49:50.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.8, "meat_temperature_c": 49.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:50:24.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.6, "meat_temperature_c": 50.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:50:57.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.4, "meat_temperature_c": 50.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:51:30.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.8, "meat_temperature_c": 50.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:52:03.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.8, "meat_temperature_c": 50.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:52:36.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.4, "meat_temperature_c": 50.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:53:09.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.1, "meat_temperature_c": 51.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:53:42.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.4, "meat_temperature_c": 51.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:54:15.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.4, "meat_temperature_c": 51.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:54:48.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.6, "meat_temperature_c": 51.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:55:22.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.5, "meat_temperature_c": 51.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:55:55.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.6, "meat_temperature_c": 52.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:56:28.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.0, "meat_temperature_c": 52.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:57:01.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.6, "meat_temperature_c": 52.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:57:34.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.9, "meat_temperature_c": 52.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:58:07.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.3, "meat_temperature_c": 52.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:58:40.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.5, "meat_temperature_c": 53.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:59:13.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.8, "meat_temperature_c": 53.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T11:59:47.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.2, "meat_temperature_c": 53.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:00:20.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.0, "meat_temperature_c": 53.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:00:53.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.6, "meat_temperature_c": 53.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:01:26.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.2, "meat_temperature_c": 54.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:01:59.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.6, "meat_temperature_c": 54.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:02:32.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.8, "meat_temperature_c": 54.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:03:05.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.8, "meat_temperature_c": 54.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:03:38.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.5, "meat_temperature_c": 54.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:04:12.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.0, "meat_temperature_c": 55.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:04:45.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.6, "meat_temperature_c": 55.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:05:18.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.1, "meat_temperature_c": 55.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:05:51.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.4, "meat_temperature_c": 55.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:06:24.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.0, "meat_temperature_c": 55.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:06:57.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.3, "meat_temperature_c": 56.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:07:30.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.6, "meat_temperature_c": 56.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:08:03.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.9, "meat_temperature_c": 56.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:08:36.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.6, "meat_temperature_c": 56.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:09:10.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.3, "meat_temperature_c": 56.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:09:43.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.1, "meat_temperature_c": 57.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:10:16.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.3, "meat_temperature_c": 57.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:10:49.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.7, "meat_temperature_c": 57.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:11:22.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.3, "meat_temperature_c": 57.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:11:55.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.3, "meat_temperature_c": 57.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:12:28.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.5, "meat_temperature_c": 58.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:13:01.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.5, "meat_temperature_c": 58.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:13:35.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.3, "meat_temperature_c": 58.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:14:08.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.6, "meat_temperature_c": 58.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:14:41.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.1, "meat_temperature_c": 58.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:15:14.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.5, "meat_temperature_c": 59.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:15:47.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.9, "meat_temperature_c": 59.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:16:20.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.0, "meat_temperature_c": 59.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:16:53.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.6, "meat_temperature_c": 59.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:17:26.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.7, "meat_temperature_c": 59.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:18:00.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.3, "meat_temperature_c": 60.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:18:33.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.4, "meat_temperature_c": 60.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:19:06.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.3, "meat_temperature_c": 60.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:19:39.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.7, "meat_temperature_c": 60.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:20:12.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.4, "meat_temperature_c": 60.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:20:45.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.3, "meat_temperature_c": 61.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:21:18.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 114.0, "meat_temperature_c": 61.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:21:51.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.8, "meat_temperature_c": 61.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:22:24.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.7, "meat_temperature_c": 61.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:22:58.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.8, "meat_temperature_c": 61.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:23:31.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.1, "meat_temperature_c": 62.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:24:04.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.2, "meat_temperature_c": 62.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:24:37.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.4, "meat_temperature_c": 62.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:25:10.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.0, "meat_temperature_c": 62.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:25:43.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.3, "meat_temperature_c": 62.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:26:16.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.8, "meat_temperature_c": 63.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:26:49.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.4, "meat_temperature_c": 63.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:27:23.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.3, "meat_temperature_c": 63.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:27:56.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.7, "meat_temperature_c": 63.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:28:29.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.7, "meat_temperature_c": 63.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:29:02.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.0, "meat_temperature_c": 64.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:29:35.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.8, "meat_temperature_c": 64.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:30:08.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.7, "meat_temperature_c": 64.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:30:41.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.7, "meat_temperature_c": 64.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:31:14.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.2, "meat_temperature_c": 64.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:31:48.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.0, "meat_temperature_c": 65.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:32:21.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.8, "meat_temperature_c": 65.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:32:54.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.3, "meat_temperature_c": 65.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:33:27.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.3, "meat_temperature_c": 65.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:34:00.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.4, "meat_temperature_c": 65.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:34:33.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.2, "meat_temperature_c": 66.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:35:06.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.6, "meat_temperature_c": 66.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:35:39.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.4, "meat_temperature_c": 66.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:36:12.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.3, "meat_temperature_c": 66.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:36:46.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.9, "meat_temperature_c": 66.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:37:19.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.3, "meat_temperature_c": 67.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:37:52.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.2, "meat_temperature_c": 67.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:38:25.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.4, "meat_temperature_c": 67.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:38:58.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.2, "meat_temperature_c": 67.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:39:31.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.4, "meat_temperature_c": 67.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:40:04.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.3, "meat_temperature_c": 68.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:40:37.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.0, "meat_temperature_c": 68.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:41:11.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 114.0, "meat_temperature_c": 68.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:41:44.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.6, "meat_temperature_c": 68.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:42:17.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.5, "meat_temperature_c": 68.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:42:50.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.3, "meat_temperature_c": 69.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:43:23.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.6, "meat_temperature_c": 69.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:43:56.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.7, "meat_temperature_c": 69.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:44:29.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.5, "meat_temperature_c": 69.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:45:02.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.8, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:45:36.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.1, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:46:09.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.5, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:46:42.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.5, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:47:15.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.0, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:47:48.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.3, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:48:21.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.9, "meat_temperature_c": 70.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:48:54.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.5, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:49:27.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.3, "meat_temperature_c": 70.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:50:00.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.4, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:50:34.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.6, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:51:07.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.8, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:51:40.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.7, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:52:13.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.5, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:52:46.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.9, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:53:19.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.1, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:53:52.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.3, "meat_temperature_c": 70.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:54:25.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.8, "meat_temperature_c": 69.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:54:59.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.8, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:55:32.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.8, "meat_temperature_c": 70.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:56:05.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.2, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:56:38.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.3, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:57:11.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.9, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:57:44.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.4, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:58:17.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.9, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:58:50.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.3, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:59:24.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.2, "meat_temperature_c": 70.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T12:59:57.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.9, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:00:30.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.8, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:01:03.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.2, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:01:36.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.6, "meat_temperature_c": 69.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:02:09.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.6, "meat_temperature_c": 69.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:02:42.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.2, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:03:15.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.2, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:03:48.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.0, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:04:22.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.9, "meat_temperature_c": 70.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:04:55.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.8, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:05:28.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.5, "meat_temperature_c": 70.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:06:01.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.4, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:06:34.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.6, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:07:07.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.2, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:07:40.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.8, "meat_temperature_c": 70.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:08:13.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.5, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:08:47.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.7, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:09:20.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.4, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:09:53.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.9, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:10:26.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.1, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:10:59.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.5, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:11:32.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.6, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:12:05.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.2, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:12:38.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.1, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:13:12.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.4, "meat_temperature_c": 70.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:13:45.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.2, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:14:18.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.0, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:14:51.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.9, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:15:24.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.4, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:15:57.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.2, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:16:30.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.4, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:17:03.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.2, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:17:36.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.3, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:18:10.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.6, "meat_temperature_c": 70.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:18:43.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.7, "meat_temperature_c": 69.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:19:16.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.8, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:19:49.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.9, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:20:22.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.0, "meat_temperature_c": 70.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:20:55.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.1, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:21:28.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.5, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:22:01.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.0, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:22:35.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.7, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:23:08.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.7, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:23:41.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.4, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:24:14.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.9, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:24:47.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.4, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:25:20.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.1, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:25:53.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.2, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:26:26.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.0, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:27:00.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.0, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:27:33.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.1, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:28:06.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.1, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:28:39.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.9, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:29:12.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.2, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:29:45.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.3, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:30:18.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.6, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:30:51.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.6, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:31:24.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.0, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:31:58.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.7, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:32:31.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.0, "meat_temperature_c": 69.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:33:04.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.8, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:33:37.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.9, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:34:10.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.7, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:34:43.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.6, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:35:16.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.4, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:35:49.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.7, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:36:23.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.4, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:36:56.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.5, "meat_temperature_c": 70.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:37:29.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.2, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:38:02.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.3, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:38:35.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.6, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:39:08.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.3, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:39:41.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.1, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:40:14.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.4, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:40:48.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.1, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:41:21.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.0, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:41:54.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.5, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:42:27.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.9, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:43:00.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.9, "meat_temperature_c": 69.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:43:33.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.6, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:44:06.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.3, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:44:39.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.6, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:45:12.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.8, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:45:46.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.0, "meat_temperature_c": 70.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:46:19.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 114.0, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:46:52.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.2, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:47:25.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.3, "meat_temperature_c": 70.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:47:58.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.3, "meat_temperature_c": 70.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:48:31.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.4, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:49:04.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.3, "meat_temperature_c": 70.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:49:37.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.9, "meat_temperature_c": 70.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:50:11.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.1, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:50:44.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.7, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:51:17.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.4, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:51:50.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.9, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:52:23.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.1, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:52:56.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.4, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:53:29.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.4, "meat_temperature_c": 70.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:54:02.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.5, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:54:36.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.2, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:55:09.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.0, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:55:42.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.9, "meat_temperature_c": 69.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:56:15.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.8, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:56:48.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.5, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:57:21.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.0, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:57:54.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.6, "meat_temperature_c": 70.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:58:27.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.0, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:59:00.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.5, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T13:59:34.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.5, "meat_temperature_c": 70.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:00:07.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.4, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:00:40.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.7, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:01:13.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.0, "meat_temperature_c": 69.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:01:46.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.9, "meat_temperature_c": 69.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:02:19.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.4, "meat_temperature_c": 70.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:02:52.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.5, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:03:25.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.5, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:03:59.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.4, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:04:32.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.5, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:05:05.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.7, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:05:38.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.8, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:06:11.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.5, "meat_temperature_c": 70.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:06:44.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.1, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:07:17.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 114.0, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:07:50.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.4, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:08:24.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.0, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:08:57.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.0, "meat_temperature_c": 69.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:09:30.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.9, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:10:03.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.1, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:10:36.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.5, "meat_temperature_c": 69.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:11:09.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.7, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:11:42.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.9, "meat_temperature_c": 69.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:12:15.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.4, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:12:48.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.6, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:13:22.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.1, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:13:55.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.5, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:14:28.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.4, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:15:01.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.9, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:15:34.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.0, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:16:07.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.3, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:16:40.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.4, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:17:13.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.8, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:17:47.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.1, "meat_temperature_c": 70.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:18:20.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.5, "meat_temperature_c": 69.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:18:53.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.9, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:19:26.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.1, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:19:59.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.7, "meat_temperature_c": 69.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:20:32.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.2, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:21:05.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.6, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:21:38.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.5, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:22:12.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.9, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:22:45.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.8, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:23:18.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.7, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:23:51.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.5, "meat_temperature_c": 70.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:24:24.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.3, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:24:57.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.6, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:25:30.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.7, "meat_temperature_c": 70.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:26:03.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.0, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:26:36.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.4, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:27:10.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.3, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:27:43.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.6, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:28:16.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.6, "meat_temperature_c": 69.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:28:49.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.3, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:29:22.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.4, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:29:55.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.5, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:30:28.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.4, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:31:01.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.2, "meat_temperature_c": 69.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:31:35.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.0, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:32:08.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.6, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:32:41.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.9, "meat_temperature_c": 70.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:33:14.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.1, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:33:47.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.9, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:34:20.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.2, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:34:53.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.9, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:35:26.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.9, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:36:00.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.9, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:36:33.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.7, "meat_temperature_c": 70.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:37:06.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.2, "meat_temperature_c": 70.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:37:39.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.6, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:38:12.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.7, "meat_temperature_c": 70.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:38:45.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.0, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:39:18.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.9, "meat_temperature_c": 70.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:39:51.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.0, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:40:24.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.6, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:40:58.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.9, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:41:31.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.1, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:42:04.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.8, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:42:37.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.8, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:43:10.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.9, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:43:43.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.7, "meat_temperature_c": 69.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:44:16.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.4, "meat_temperature_c": 70.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:44:49.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.7, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:45:23.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.0, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:45:56.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.7, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:46:29.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.2, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:47:02.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.1, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:47:35.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.8, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:48:08.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.1, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:48:41.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.8, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:49:14.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.5, "meat_temperature_c": 69.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:49:48.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.6, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:50:21.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.4, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:50:54.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.1, "meat_temperature_c": 70.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:51:27.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.7, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:52:00.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.9, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:52:33.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.8, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:53:06.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.7, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:53:39.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.4, "meat_temperature_c": 69.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:54:12.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.6, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:54:46.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.4, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:55:19.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.3, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:55:52.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.8, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:56:25.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.0, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:56:58.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.9, "meat_temperature_c": 70.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:57:31.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.1, "meat_temperature_c": 70.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:58:04.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.0, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:58:37.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.1, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:59:11.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.9, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T14:59:44.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.5, "meat_temperature_c": 70.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:00:17.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.1, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:00:50.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.0, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:01:23.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.2, "meat_temperature_c": 70.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:01:56.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.7, "meat_temperature_c": 70.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:02:29.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.0, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:03:02.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.9, "meat_temperature_c": 69.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:03:36.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.6, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:04:09.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.9, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:04:42.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.8, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:05:15.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.3, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:05:48.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.3, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:06:21.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.8, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:06:54.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.1, "meat_temperature_c": 69.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:07:27.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.7, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:08:00.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.3, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:08:34.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.9, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:09:07.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.0, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:09:40.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.5, "meat_temperature_c": 70.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:10:13.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.7, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:10:46.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.1, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:11:19.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.5, "meat_temperature_c": 70.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:11:52.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.1, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:12:25.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.4, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:12:59.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.8, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:13:32.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.4, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:14:05.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.0, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:14:38.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.5, "meat_temperature_c": 70.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:15:11.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.7, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:15:44.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.4, "meat_temperature_c": 69.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:16:17.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.9, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:16:50.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.0, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:17:24.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.2, "meat_temperature_c": 70.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:17:57.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.5, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:18:30.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.6, "meat_temperature_c": 70.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:19:03.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.2, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:19:36.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.1, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:20:09.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.6, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:20:42.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.1, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:21:15.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.1, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:21:48.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.8, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:22:22.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.0, "meat_temperature_c": 70.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:22:55.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 114.0, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:23:28.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.4, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:24:01.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.8, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:24:34.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.0, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:25:07.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.5, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:25:40.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.9, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:26:13.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.3, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:26:47.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.7, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:27:20.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.7, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:27:53.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.2, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:28:26.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.8, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:28:59.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.9, "meat_temperature_c": 69.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:29:32.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.5, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:30:05.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.0, "meat_temperature_c": 70.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:30:38.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.0, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:31:12.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.3, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:31:45.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.0, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:32:18.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.0, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:32:51.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.3, "meat_temperature_c": 70.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:33:24.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.0, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:33:57.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.4, "meat_temperature_c": 69.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:34:30.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.4, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:35:03.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.7, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:35:36.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.6, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:36:10.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.3, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:36:43.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.3, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:37:16.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.9, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:37:49.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.1, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:38:22.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.7, "meat_temperature_c": 70.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:38:55.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.8, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:39:28.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.1, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:40:01.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.0, "meat_temperature_c": 70.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:40:35.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.3, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:41:08.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.9, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:41:41.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.8, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:42:14.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.1, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:42:47.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.4, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:43:20.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.8, "meat_temperature_c": 70.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:43:53.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.2, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:44:26.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.6, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:45:00.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.4, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:45:33.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.5, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:46:06.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.4, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:46:39.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.5, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:47:12.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.5, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:47:45.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.0, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:48:18.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.1, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:48:51.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.4, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:49:24.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.9, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:49:58.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.9, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:50:31.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.3, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:51:04.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.4, "meat_temperature_c": 70.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:51:37.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.6, "meat_temperature_c": 69.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:52:10.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.7, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:52:43.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.8, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:53:16.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.9, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:53:49.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.6, "meat_temperature_c": 70.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:54:23.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.0, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:54:56.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.2, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:55:29.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.6, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:56:02.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.0, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:56:35.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.8, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:57:08.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.3, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:57:41.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.4, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:58:14.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.7, "meat_temperature_c": 70.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:58:48.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.6, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:59:21.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.2, "meat_temperature_c": 70.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T15:59:54.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.5, "meat_temperature_c": 70.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:00:27.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.8, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:01:00.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.8, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:01:33.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.0, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:02:06.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.0, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:02:39.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.7, "meat_temperature_c": 70.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:03:12.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.2, "meat_temperature_c": 70.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:03:46.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.5, "meat_temperature_c": 70.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:04:19.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.8, "meat_temperature_c": 70.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:04:52.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.2, "meat_temperature_c": 70.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:05:25.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.4, "meat_temperature_c": 70.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:05:58.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.6, "meat_temperature_c": 70.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:06:31.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.6, "meat_temperature_c": 71.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:07:04.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.6, "meat_temperature_c": 71.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:07:37.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.7, "meat_temperature_c": 71.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:08:11.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.8, "meat_temperature_c": 71.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:08:44.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.3, "meat_temperature_c": 71.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:09:17.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.3, "meat_temperature_c": 71.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:09:50.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.4, "meat_temperature_c": 71.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:10:23.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.2, "meat_temperature_c": 71.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:10:56.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.1, "meat_temperature_c": 71.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:11:29.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.6, "meat_temperature_c": 71.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:12:02.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.7, "meat_temperature_c": 71.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:12:36.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.6, "meat_temperature_c": 71.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:13:09.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.3, "meat_temperature_c": 71.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:13:42.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.6, "meat_temperature_c": 71.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:14:15.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.0, "meat_temperature_c": 72.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:14:48.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.0, "meat_temperature_c": 72.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:15:21.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.7, "meat_temperature_c": 72.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:15:54.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.4, "meat_temperature_c": 72.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:16:27.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.7, "meat_temperature_c": 72.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:17:00.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.5, "meat_temperature_c": 72.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:17:34.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.0, "meat_temperature_c": 72.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:18:07.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.8, "meat_temperature_c": 72.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:18:40.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.3, "meat_temperature_c": 72.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:19:13.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.1, "meat_temperature_c": 72.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:19:46.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 113.5, "meat_temperature_c": 72.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:20:19.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.9, "meat_temperature_c": 72.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:20:52.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 110.6, "meat_temperature_c": 72.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:21:25.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 109.8, "meat_temperature_c": 72.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:21:59.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.1, "meat_temperature_c": 73.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:22:32.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.9, "meat_temperature_c": 73.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:23:05.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.4, "meat_temperature_c": 73.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:23:38.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 107.0, "meat_temperature_c": 73.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:24:11.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 106.4, "meat_temperature_c": 73.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:24:44.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.2, "meat_temperature_c": 73.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:25:17.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 111.6, "meat_temperature_c": 73.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:25:50.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 112.5, "meat_temperature_c": 73.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:26:24.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 108.1, "meat_temperature_c": 73.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:26:57.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 125.4, "meat_temperature_c": 73.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:27:30.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 123.5, "meat_temperature_c": 73.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:28:03.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 123.9, "meat_temperature_c": 73.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:28:36.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 126.6, "meat_temperature_c": 73.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:29:09.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 127.0, "meat_temperature_c": 73.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:29:42.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 128.6, "meat_temperature_c": 74.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:30:15.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 123.6, "meat_temperature_c": 74.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:30:48.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 123.6, "meat_temperature_c": 74.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:31:22.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 127.8, "meat_temperature_c": 74.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:31:55.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 124.7, "meat_temperature_c": 74.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:32:28.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 128.9, "meat_temperature_c": 74.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:33:01.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 128.2, "meat_temperature_c": 74.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:33:34.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 123.8, "meat_temperature_c": 74.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:34:07.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 126.4, "meat_temperature_c": 74.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:34:40.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 126.1, "meat_temperature_c": 74.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:35:13.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 122.6, "meat_temperature_c": 74.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:35:47.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.9, "meat_temperature_c": 74.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:36:20.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 125.0, "meat_temperature_c": 74.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:36:53.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 124.2, "meat_temperature_c": 74.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:37:26.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 125.4, "meat_temperature_c": 75.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:37:59.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 125.2, "meat_temperature_c": 75.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:38:32.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.4, "meat_temperature_c": 75.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:39:05.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 122.0, "meat_temperature_c": 75.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:39:38.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.5, "meat_temperature_c": 75.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:40:12.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 125.5, "meat_temperature_c": 75.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:40:45.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 126.7, "meat_temperature_c": 75.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:41:18.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 126.1, "meat_temperature_c": 75.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:41:51.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 123.1, "meat_temperature_c": 75.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:42:24.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 122.1, "meat_temperature_c": 75.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:42:57.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 128.2, "meat_temperature_c": 75.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:43:30.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 124.8, "meat_temperature_c": 75.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:44:03.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 123.1, "meat_temperature_c": 75.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:44:36.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 126.3, "meat_temperature_c": 75.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:45:10.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 125.7, "meat_temperature_c": 76.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:45:43.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 122.2, "meat_temperature_c": 76.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:46:16.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 124.0, "meat_temperature_c": 76.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:46:49.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.5, "meat_temperature_c": 76.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:47:22.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 127.0, "meat_temperature_c": 76.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:47:55.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 126.7, "meat_temperature_c": 76.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:48:28.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 127.8, "meat_temperature_c": 76.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:49:01.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 124.2, "meat_temperature_c": 76.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:49:35.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 128.8, "meat_temperature_c": 76.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:50:08.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 122.9, "meat_temperature_c": 76.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:50:41.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 122.1, "meat_temperature_c": 76.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:51:14.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.3, "meat_temperature_c": 76.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:51:47.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 125.5, "meat_temperature_c": 76.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:52:20.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 128.5, "meat_temperature_c": 76.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:52:53.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 128.1, "meat_temperature_c": 77.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:53:26.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 126.4, "meat_temperature_c": 77.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:54:00.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 128.8, "meat_temperature_c": 77.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:54:33.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 124.0, "meat_temperature_c": 77.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:55:06.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 122.4, "meat_temperature_c": 77.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:55:39.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.5, "meat_temperature_c": 77.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:56:12.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.4, "meat_temperature_c": 77.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:56:45.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 128.9, "meat_temperature_c": 77.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:57:18.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 122.3, "meat_temperature_c": 77.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:57:51.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 122.2, "meat_temperature_c": 77.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:58:24.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 125.3, "meat_temperature_c": 77.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:58:58.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 124.8, "meat_temperature_c": 77.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T16:59:31.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 128.1, "meat_temperature_c": 77.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:00:04.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 126.9, "meat_temperature_c": 77.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:00:37.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 124.5, "meat_temperature_c": 78.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:01:10.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 125.6, "meat_temperature_c": 78.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:01:43.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 123.7, "meat_temperature_c": 78.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:02:16.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 124.3, "meat_temperature_c": 78.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:02:49.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 125.6, "meat_temperature_c": 78.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:03:23.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 125.0, "meat_temperature_c": 78.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:03:56.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 123.4, "meat_temperature_c": 78.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:04:29.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 122.0, "meat_temperature_c": 78.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:05:02.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 122.8, "meat_temperature_c": 78.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:05:35.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.4, "meat_temperature_c": 78.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:06:08.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 124.0, "meat_temperature_c": 78.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:06:41.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 122.0, "meat_temperature_c": 78.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:07:14.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 123.9, "meat_temperature_c": 78.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:07:48.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 125.1, "meat_temperature_c": 78.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:08:21.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 128.1, "meat_temperature_c": 79.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:08:54.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 128.5, "meat_temperature_c": 79.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:09:27.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 128.5, "meat_temperature_c": 79.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:10:00.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 126.4, "meat_temperature_c": 79.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:10:33.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 125.3, "meat_temperature_c": 79.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:11:06.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 127.3, "meat_temperature_c": 79.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:11:39.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 127.2, "meat_temperature_c": 79.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:12:12.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 126.5, "meat_temperature_c": 79.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:12:46.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 122.9, "meat_temperature_c": 79.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:13:19.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 124.0, "meat_temperature_c": 79.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:13:52.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 127.9, "meat_temperature_c": 79.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:14:25.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 123.4, "meat_temperature_c": 79.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:14:58.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 127.3, "meat_temperature_c": 79.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:15:31.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 123.3, "meat_temperature_c": 79.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:16:04.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 125.3, "meat_temperature_c": 80.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:16:37.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 126.6, "meat_temperature_c": 80.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:17:11.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 124.6, "meat_temperature_c": 80.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:17:44.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 127.1, "meat_temperature_c": 80.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:18:17.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 124.5, "meat_temperature_c": 80.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:18:50.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 126.2, "meat_temperature_c": 80.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:19:23.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 122.6, "meat_temperature_c": 80.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:19:56.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.2, "meat_temperature_c": 80.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:20:29.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 122.9, "meat_temperature_c": 80.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:21:02.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 128.3, "meat_temperature_c": 80.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:21:36.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 125.2, "meat_temperature_c": 80.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:22:09.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 127.0, "meat_temperature_c": 80.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:22:42.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.9, "meat_temperature_c": 80.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:23:15.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 123.4, "meat_temperature_c": 80.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:23:48.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 127.5, "meat_temperature_c": 81.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:24:21.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 126.4, "meat_temperature_c": 81.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:24:54.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.0, "meat_temperature_c": 81.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:25:27.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 123.3, "meat_temperature_c": 81.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:26:00.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 128.4, "meat_temperature_c": 81.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:26:34.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 123.2, "meat_temperature_c": 81.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:27:07.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 127.0, "meat_temperature_c": 81.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:27:40.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 128.8, "meat_temperature_c": 81.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:28:13.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.1, "meat_temperature_c": 81.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:28:46.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 125.1, "meat_temperature_c": 81.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:29:19.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 125.2, "meat_temperature_c": 81.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:29:52.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 128.1, "meat_temperature_c": 81.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:30:25.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 128.6, "meat_temperature_c": 81.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:30:59.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 126.7, "meat_temperature_c": 81.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:31:32.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 123.3, "meat_temperature_c": 82.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:32:05.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 124.7, "meat_temperature_c": 82.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:32:38.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 126.7, "meat_temperature_c": 82.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:33:11.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 128.2, "meat_temperature_c": 82.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:33:44.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 123.9, "meat_temperature_c": 82.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:34:17.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 122.0, "meat_temperature_c": 82.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:34:50.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 123.2, "meat_temperature_c": 82.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:35:24.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 125.2, "meat_temperature_c": 82.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:35:57.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 123.6, "meat_temperature_c": 82.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:36:30.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 122.8, "meat_temperature_c": 82.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:37:03.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.0, "meat_temperature_c": 82.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:37:36.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 125.4, "meat_temperature_c": 82.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:38:09.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 128.9, "meat_temperature_c": 82.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:38:42.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 123.5, "meat_temperature_c": 82.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:39:15.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.1, "meat_temperature_c": 83.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:39:48.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.4, "meat_temperature_c": 83.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:40:22.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 122.1, "meat_temperature_c": 83.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:40:55.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 128.5, "meat_temperature_c": 83.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:41:28.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 127.6, "meat_temperature_c": 83.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:42:01.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 128.8, "meat_temperature_c": 83.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:42:34.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 124.6, "meat_temperature_c": 83.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:43:07.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 123.7, "meat_temperature_c": 83.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:43:40.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 128.1, "meat_temperature_c": 83.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:44:13.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.5, "meat_temperature_c": 83.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:44:47.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.0, "meat_temperature_c": 83.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:45:20.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 124.4, "meat_temperature_c": 83.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:45:53.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 123.2, "meat_temperature_c": 83.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:46:26.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 127.3, "meat_temperature_c": 83.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:46:59.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 128.4, "meat_temperature_c": 84.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:47:32.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 125.9, "meat_temperature_c": 84.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:48:05.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.2, "meat_temperature_c": 84.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:48:38.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 123.8, "meat_temperature_c": 84.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:49:12.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 125.4, "meat_temperature_c": 84.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:49:45.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.6, "meat_temperature_c": 84.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:50:18.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 124.2, "meat_temperature_c": 84.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:50:51.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 122.5, "meat_temperature_c": 84.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:51:24.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 123.0, "meat_temperature_c": 84.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:51:57.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 125.7, "meat_temperature_c": 84.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:52:30.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 122.3, "meat_temperature_c": 84.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:53:03.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 128.2, "meat_temperature_c": 84.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:53:36.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 122.0, "meat_temperature_c": 84.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:54:10.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 125.2, "meat_temperature_c": 84.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:54:43.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 124.4, "meat_temperature_c": 85.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:55:16.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 125.7, "meat_temperature_c": 85.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:55:49.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 129.0, "meat_temperature_c": 85.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:56:22.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 128.1, "meat_temperature_c": 85.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:56:55.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 128.1, "meat_temperature_c": 85.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:57:28.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 123.4, "meat_temperature_c": 85.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:58:01.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 124.8, "meat_temperature_c": 85.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:58:35.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 126.3, "meat_temperature_c": 85.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:59:08.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 126.8, "meat_temperature_c": 85.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T17:59:41.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 127.1, "meat_temperature_c": 85.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:00:14.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 124.1, "meat_temperature_c": 85.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:00:47.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 124.1, "meat_temperature_c": 85.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:01:20.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 123.1, "meat_temperature_c": 85.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:01:53.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 122.6, "meat_temperature_c": 85.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:02:26.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 126.9, "meat_temperature_c": 86.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:03:00.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 124.5, "meat_temperature_c": 86.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:03:33.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 127.0, "meat_temperature_c": 86.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:04:06.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 124.9, "meat_temperature_c": 86.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:04:39.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 123.8, "meat_temperature_c": 86.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:05:12.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.7, "meat_temperature_c": 86.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:05:45.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 123.8, "meat_temperature_c": 86.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:06:18.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.6, "meat_temperature_c": 86.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:06:51.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 123.0, "meat_temperature_c": 86.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:07:24.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 124.2, "meat_temperature_c": 86.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:07:58.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 126.8, "meat_temperature_c": 86.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:08:31.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 125.0, "meat_temperature_c": 86.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:09:04.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 123.4, "meat_temperature_c": 86.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:09:37.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.9, "meat_temperature_c": 86.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:10:10.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 126.6, "meat_temperature_c": 87.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:10:43.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 123.3, "meat_temperature_c": 87.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:11:16.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 127.3, "meat_temperature_c": 87.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:11:49.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 128.4, "meat_temperature_c": 87.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:12:23.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 124.3, "meat_temperature_c": 87.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:12:56.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 125.7, "meat_temperature_c": 87.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:13:29.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 124.7, "meat_temperature_c": 87.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:14:02.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 127.3, "meat_temperature_c": 87.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:14:35.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 123.5, "meat_temperature_c": 87.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:15:08.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 122.1, "meat_temperature_c": 87.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:15:41.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 122.6, "meat_temperature_c": 87.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:16:14.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 124.4, "meat_temperature_c": 87.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:16:48.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 124.5, "meat_temperature_c": 87.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:17:21.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 127.2, "meat_temperature_c": 87.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:17:54.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 122.2, "meat_temperature_c": 88.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:18:27.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 122.7, "meat_temperature_c": 88.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:19:00.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 128.4, "meat_temperature_c": 88.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:19:33.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 128.8, "meat_temperature_c": 88.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:20:06.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 126.3, "meat_temperature_c": 88.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:20:39.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 124.1, "meat_temperature_c": 88.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:21:12.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 123.3, "meat_temperature_c": 88.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:21:46.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 124.3, "meat_temperature_c": 88.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:22:19.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 124.3, "meat_temperature_c": 88.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:22:52.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 128.9, "meat_temperature_c": 88.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:23:25.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 128.9, "meat_temperature_c": 88.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:23:58.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 122.6, "meat_temperature_c": 88.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:24:31.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 126.4, "meat_temperature_c": 88.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:25:04.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 123.3, "meat_temperature_c": 88.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:25:37.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 125.7, "meat_temperature_c": 89.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:26:11.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.5, "meat_temperature_c": 89.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:26:44.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 128.3, "meat_temperature_c": 89.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:27:17.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 126.7, "meat_temperature_c": 89.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:27:50.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.1, "meat_temperature_c": 89.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:28:23.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 122.2, "meat_temperature_c": 89.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:28:56.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 122.7, "meat_temperature_c": 89.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:29:29.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 127.3, "meat_temperature_c": 89.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:30:02.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.5, "meat_temperature_c": 89.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:30:36.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 123.1, "meat_temperature_c": 89.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:31:09.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 125.8, "meat_temperature_c": 89.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:31:42.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 124.7, "meat_temperature_c": 89.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:32:15.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 122.4, "meat_temperature_c": 89.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:32:48.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.3, "meat_temperature_c": 89.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:33:21.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 122.6, "meat_temperature_c": 90.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:33:54.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 126.3, "meat_temperature_c": 90.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:34:27.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.4, "meat_temperature_c": 90.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:35:00.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 124.0, "meat_temperature_c": 90.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:35:34.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 125.1, "meat_temperature_c": 90.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:36:07.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 124.0, "meat_temperature_c": 90.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:36:40.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 128.8, "meat_temperature_c": 90.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:37:13.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.9, "meat_temperature_c": 90.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:37:46.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 129.0, "meat_temperature_c": 90.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:38:19.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.7, "meat_temperature_c": 90.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:38:52.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.8, "meat_temperature_c": 90.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:39:25.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 128.9, "meat_temperature_c": 90.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:39:59.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.0, "meat_temperature_c": 90.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:40:32.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 122.3, "meat_temperature_c": 90.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:41:05.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 125.2, "meat_temperature_c": 91.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:41:38.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 128.4, "meat_temperature_c": 91.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:42:11.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 126.7, "meat_temperature_c": 91.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:42:44.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 124.4, "meat_temperature_c": 91.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:43:17.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 127.4, "meat_temperature_c": 91.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:43:50.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 127.1, "meat_temperature_c": 91.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:44:24.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 122.3, "meat_temperature_c": 91.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:44:57.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.2, "meat_temperature_c": 91.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:45:30.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 124.4, "meat_temperature_c": 91.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:46:03.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 126.3, "meat_temperature_c": 91.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:46:36.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 127.8, "meat_temperature_c": 91.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:47:09.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 126.5, "meat_temperature_c": 91.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:47:42.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.8, "meat_temperature_c": 91.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:48:15.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 125.6, "meat_temperature_c": 91.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:48:48.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 122.4, "meat_temperature_c": 92.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:49:22.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 126.8, "meat_temperature_c": 92.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:49:55.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 122.9, "meat_temperature_c": 92.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:50:28.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 125.0, "meat_temperature_c": 92.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:51:01.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 122.4, "meat_temperature_c": 92.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:51:34.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 125.6, "meat_temperature_c": 92.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:52:07.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 124.3, "meat_temperature_c": 92.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:52:40.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.9, "meat_temperature_c": 92.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:53:13.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 126.2, "meat_temperature_c": 92.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:53:47.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 122.5, "meat_temperature_c": 92.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:54:20.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.1, "meat_temperature_c": 92.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:54:53.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 124.2, "meat_temperature_c": 92.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:55:26.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 126.0, "meat_temperature_c": 92.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:55:59.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.9, "meat_temperature_c": 92.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:56:32.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 124.7, "meat_temperature_c": 93.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:57:05.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 127.9, "meat_temperature_c": 93.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:57:38.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 123.1, "meat_temperature_c": 93.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:58:12.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.1, "meat_temperature_c": 93.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:58:45.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.1, "meat_temperature_c": 93.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:59:18.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 124.3, "meat_temperature_c": 93.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T18:59:51.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 128.7, "meat_temperature_c": 93.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T19:00:24.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.0, "meat_temperature_c": 93.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T19:00:57.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.3, "meat_temperature_c": 93.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T19:01:30.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 125.5, "meat_temperature_c": 93.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T19:02:03.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 126.9, "meat_temperature_c": 93.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T19:02:36.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.4, "meat_temperature_c": 93.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T19:03:10.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 123.6, "meat_temperature_c": 93.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T19:03:43.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 128.4, "meat_temperature_c": 93.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T19:04:16.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.4, "meat_temperature_c": 94.0}
+{"create": {}}
+{"@timestamp": "2025-06-14T19:04:49.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 125.0, "meat_temperature_c": 94.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T19:05:22.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 127.2, "meat_temperature_c": 94.1}
+{"create": {}}
+{"@timestamp": "2025-06-14T19:05:55.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 122.6, "meat_temperature_c": 94.2}
+{"create": {}}
+{"@timestamp": "2025-06-14T19:06:28.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.4, "meat_temperature_c": 94.3}
+{"create": {}}
+{"@timestamp": "2025-06-14T19:07:01.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 126.3, "meat_temperature_c": 94.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T19:07:35.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 125.0, "meat_temperature_c": 94.4}
+{"create": {}}
+{"@timestamp": "2025-06-14T19:08:08.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 122.6, "meat_temperature_c": 94.5}
+{"create": {}}
+{"@timestamp": "2025-06-14T19:08:41.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 127.6, "meat_temperature_c": 94.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T19:09:14.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.3, "meat_temperature_c": 94.6}
+{"create": {}}
+{"@timestamp": "2025-06-14T19:09:47.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 123.1, "meat_temperature_c": 94.7}
+{"create": {}}
+{"@timestamp": "2025-06-14T19:10:20.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 121.4, "meat_temperature_c": 94.8}
+{"create": {}}
+{"@timestamp": "2025-06-14T19:10:53.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 127.8, "meat_temperature_c": 94.9}
+{"create": {}}
+{"@timestamp": "2025-06-14T19:11:26.000Z", "cook_id": "cook-W24", "recipe": "pulled_pork", "ambient_temperature_c": 125.6, "meat_temperature_c": 94.9}

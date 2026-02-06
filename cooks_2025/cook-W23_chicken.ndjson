@@ -1,0 +1,2000 @@
+{"create": {}}
+{"@timestamp": "2025-06-07T10:00:00.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.6, "meat_temperature_c": 10.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:00:06.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.6, "meat_temperature_c": 10.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:00:12.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.5, "meat_temperature_c": 10.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:00:18.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.3, "meat_temperature_c": 10.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:00:24.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.6, "meat_temperature_c": 10.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:00:31.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.6, "meat_temperature_c": 11.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:00:37.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.3, "meat_temperature_c": 11.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:00:43.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.4, "meat_temperature_c": 11.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:00:49.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.8, "meat_temperature_c": 11.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:00:56.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.6, "meat_temperature_c": 11.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:01:02.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.8, "meat_temperature_c": 11.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:01:08.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.1, "meat_temperature_c": 12.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:01:14.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.0, "meat_temperature_c": 12.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:01:21.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.3, "meat_temperature_c": 12.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:01:27.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.1, "meat_temperature_c": 12.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:01:33.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.9, "meat_temperature_c": 12.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:01:39.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.7, "meat_temperature_c": 13.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:01:46.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.8, "meat_temperature_c": 13.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:01:52.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.3, "meat_temperature_c": 13.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:01:58.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.5, "meat_temperature_c": 13.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:02:04.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.5, "meat_temperature_c": 13.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:02:11.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.0, "meat_temperature_c": 14.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:02:17.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.0, "meat_temperature_c": 14.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:02:23.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.4, "meat_temperature_c": 14.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:02:29.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.6, "meat_temperature_c": 14.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:02:36.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.7, "meat_temperature_c": 14.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:02:42.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.7, "meat_temperature_c": 14.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:02:48.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.3, "meat_temperature_c": 15.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:02:54.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.7, "meat_temperature_c": 15.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:03:00.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.6, "meat_temperature_c": 15.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:03:07.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.6, "meat_temperature_c": 15.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:03:13.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.8, "meat_temperature_c": 15.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:03:19.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.9, "meat_temperature_c": 15.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:03:25.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.3, "meat_temperature_c": 16.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:03:32.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.4, "meat_temperature_c": 16.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:03:38.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.7, "meat_temperature_c": 16.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:03:44.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.2, "meat_temperature_c": 16.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:03:50.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.1, "meat_temperature_c": 16.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:03:57.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.3, "meat_temperature_c": 17.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:04:03.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.3, "meat_temperature_c": 17.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:04:09.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.6, "meat_temperature_c": 17.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:04:15.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.0, "meat_temperature_c": 17.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:04:22.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.4, "meat_temperature_c": 17.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:04:28.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.2, "meat_temperature_c": 17.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:04:34.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.4, "meat_temperature_c": 18.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:04:40.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.9, "meat_temperature_c": 18.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:04:47.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.5, "meat_temperature_c": 18.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:04:53.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.9, "meat_temperature_c": 18.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:04:59.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.3, "meat_temperature_c": 18.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:05:05.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.5, "meat_temperature_c": 18.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:05:12.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.7, "meat_temperature_c": 19.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:05:18.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.6, "meat_temperature_c": 19.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:05:24.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.0, "meat_temperature_c": 19.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:05:30.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.1, "meat_temperature_c": 19.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:05:36.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.3, "meat_temperature_c": 19.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:05:43.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.8, "meat_temperature_c": 19.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:05:49.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.5, "meat_temperature_c": 20.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:05:55.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.4, "meat_temperature_c": 20.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:06:01.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.2, "meat_temperature_c": 20.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:06:08.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.4, "meat_temperature_c": 20.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:06:14.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.5, "meat_temperature_c": 20.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:06:20.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.1, "meat_temperature_c": 20.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:06:26.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.4, "meat_temperature_c": 21.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:06:33.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.3, "meat_temperature_c": 21.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:06:39.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.9, "meat_temperature_c": 21.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:06:45.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.2, "meat_temperature_c": 21.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:06:51.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.4, "meat_temperature_c": 21.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:06:58.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.2, "meat_temperature_c": 21.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:07:04.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.0, "meat_temperature_c": 22.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:07:10.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.5, "meat_temperature_c": 22.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:07:16.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.2, "meat_temperature_c": 22.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:07:23.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.7, "meat_temperature_c": 22.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:07:29.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.3, "meat_temperature_c": 22.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:07:35.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.4, "meat_temperature_c": 22.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:07:41.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.6, "meat_temperature_c": 22.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:07:48.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.7, "meat_temperature_c": 23.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:07:54.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.4, "meat_temperature_c": 23.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:08:00.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.7, "meat_temperature_c": 23.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:08:06.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.1, "meat_temperature_c": 23.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:08:12.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.6, "meat_temperature_c": 23.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:08:19.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.1, "meat_temperature_c": 23.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:08:25.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.9, "meat_temperature_c": 24.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:08:31.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.2, "meat_temperature_c": 24.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:08:37.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.8, "meat_temperature_c": 24.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:08:44.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.2, "meat_temperature_c": 24.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:08:50.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.1, "meat_temperature_c": 24.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:08:56.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.8, "meat_temperature_c": 24.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:09:02.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.1, "meat_temperature_c": 24.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:09:09.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.2, "meat_temperature_c": 25.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:09:15.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 182.0, "meat_temperature_c": 25.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:09:21.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.2, "meat_temperature_c": 25.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:09:27.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.2, "meat_temperature_c": 25.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:09:34.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.7, "meat_temperature_c": 25.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:09:40.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.1, "meat_temperature_c": 25.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:09:46.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.9, "meat_temperature_c": 26.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:09:52.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.5, "meat_temperature_c": 26.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:09:59.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.6, "meat_temperature_c": 26.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:10:05.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.5, "meat_temperature_c": 26.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:10:11.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.3, "meat_temperature_c": 26.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:10:17.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.6, "meat_temperature_c": 26.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:10:24.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.0, "meat_temperature_c": 26.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:10:30.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.3, "meat_temperature_c": 27.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:10:36.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.2, "meat_temperature_c": 27.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:10:42.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.1, "meat_temperature_c": 27.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:10:48.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.5, "meat_temperature_c": 27.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:10:55.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.3, "meat_temperature_c": 27.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:11:01.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.1, "meat_temperature_c": 27.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:11:07.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.8, "meat_temperature_c": 27.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:11:13.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.7, "meat_temperature_c": 28.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:11:20.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.9, "meat_temperature_c": 28.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:11:26.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.7, "meat_temperature_c": 28.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:11:32.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.6, "meat_temperature_c": 28.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:11:38.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.1, "meat_temperature_c": 28.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:11:45.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.8, "meat_temperature_c": 28.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:11:51.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.8, "meat_temperature_c": 28.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:11:57.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.2, "meat_temperature_c": 29.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:12:03.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.5, "meat_temperature_c": 29.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:12:10.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.3, "meat_temperature_c": 29.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:12:16.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.2, "meat_temperature_c": 29.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:12:22.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.8, "meat_temperature_c": 29.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:12:28.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.3, "meat_temperature_c": 29.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:12:35.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.2, "meat_temperature_c": 29.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:12:41.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.6, "meat_temperature_c": 29.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:12:47.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.5, "meat_temperature_c": 30.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:12:53.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.5, "meat_temperature_c": 30.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:13:00.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.3, "meat_temperature_c": 30.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:13:06.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.2, "meat_temperature_c": 30.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:13:12.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.4, "meat_temperature_c": 30.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:13:18.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.2, "meat_temperature_c": 30.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:13:24.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.5, "meat_temperature_c": 30.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:13:31.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.8, "meat_temperature_c": 31.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:13:37.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.5, "meat_temperature_c": 31.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:13:43.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.5, "meat_temperature_c": 31.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:13:49.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.6, "meat_temperature_c": 31.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:13:56.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.6, "meat_temperature_c": 31.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:14:02.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.4, "meat_temperature_c": 31.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:14:08.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.0, "meat_temperature_c": 31.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:14:14.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.5, "meat_temperature_c": 31.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:14:21.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.9, "meat_temperature_c": 32.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:14:27.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.2, "meat_temperature_c": 32.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:14:33.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.0, "meat_temperature_c": 32.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:14:39.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.9, "meat_temperature_c": 32.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:14:46.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.7, "meat_temperature_c": 32.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:14:52.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.3, "meat_temperature_c": 32.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:14:58.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.4, "meat_temperature_c": 32.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:15:04.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.9, "meat_temperature_c": 32.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:15:11.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.4, "meat_temperature_c": 33.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:15:17.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.9, "meat_temperature_c": 33.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:15:23.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.9, "meat_temperature_c": 33.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:15:29.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.2, "meat_temperature_c": 33.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:15:36.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.9, "meat_temperature_c": 33.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:15:42.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.9, "meat_temperature_c": 33.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:15:48.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.5, "meat_temperature_c": 33.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:15:54.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.7, "meat_temperature_c": 33.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:16:00.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.7, "meat_temperature_c": 34.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:16:07.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.8, "meat_temperature_c": 34.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:16:13.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.8, "meat_temperature_c": 34.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:16:19.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.3, "meat_temperature_c": 34.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:16:25.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.7, "meat_temperature_c": 34.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:16:32.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.2, "meat_temperature_c": 34.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:16:38.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.2, "meat_temperature_c": 34.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:16:44.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.2, "meat_temperature_c": 34.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:16:50.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.5, "meat_temperature_c": 35.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:16:57.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.2, "meat_temperature_c": 35.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:17:03.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.8, "meat_temperature_c": 35.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:17:09.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.5, "meat_temperature_c": 35.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:17:15.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.7, "meat_temperature_c": 35.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:17:22.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.7, "meat_temperature_c": 35.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:17:28.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.3, "meat_temperature_c": 35.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:17:34.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.1, "meat_temperature_c": 35.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:17:40.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.6, "meat_temperature_c": 36.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:17:47.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 182.0, "meat_temperature_c": 36.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:17:53.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.6, "meat_temperature_c": 36.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:17:59.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.9, "meat_temperature_c": 36.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:18:05.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.2, "meat_temperature_c": 36.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:18:12.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.0, "meat_temperature_c": 36.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:18:18.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.3, "meat_temperature_c": 36.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:18:24.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.0, "meat_temperature_c": 36.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:18:30.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.2, "meat_temperature_c": 36.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:18:36.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.0, "meat_temperature_c": 37.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:18:43.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.7, "meat_temperature_c": 37.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:18:49.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.2, "meat_temperature_c": 37.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:18:55.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.7, "meat_temperature_c": 37.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:19:01.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.6, "meat_temperature_c": 37.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:19:08.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.9, "meat_temperature_c": 37.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:19:14.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.8, "meat_temperature_c": 37.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:19:20.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.2, "meat_temperature_c": 37.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:19:26.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.8, "meat_temperature_c": 37.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:19:33.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.5, "meat_temperature_c": 38.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:19:39.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.0, "meat_temperature_c": 38.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:19:45.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.9, "meat_temperature_c": 38.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:19:51.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.0, "meat_temperature_c": 38.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:19:58.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.0, "meat_temperature_c": 38.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:20:04.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.3, "meat_temperature_c": 38.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:20:10.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.7, "meat_temperature_c": 38.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:20:16.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.9, "meat_temperature_c": 38.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:20:23.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.8, "meat_temperature_c": 38.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:20:29.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.9, "meat_temperature_c": 39.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:20:35.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.8, "meat_temperature_c": 39.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:20:41.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.3, "meat_temperature_c": 39.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:20:48.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.4, "meat_temperature_c": 39.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:20:54.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.2, "meat_temperature_c": 39.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:21:00.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.8, "meat_temperature_c": 39.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:21:06.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.2, "meat_temperature_c": 39.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:21:12.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.4, "meat_temperature_c": 39.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:21:19.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.7, "meat_temperature_c": 39.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:21:25.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.5, "meat_temperature_c": 40.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:21:31.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.2, "meat_temperature_c": 40.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:21:37.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.6, "meat_temperature_c": 40.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:21:44.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.3, "meat_temperature_c": 40.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:21:50.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.8, "meat_temperature_c": 40.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:21:56.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.8, "meat_temperature_c": 40.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:22:02.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.7, "meat_temperature_c": 40.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:22:09.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.6, "meat_temperature_c": 40.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:22:15.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.5, "meat_temperature_c": 40.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:22:21.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.4, "meat_temperature_c": 40.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:22:27.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.0, "meat_temperature_c": 41.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:22:34.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.7, "meat_temperature_c": 41.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:22:40.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.4, "meat_temperature_c": 41.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:22:46.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.0, "meat_temperature_c": 41.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:22:52.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.2, "meat_temperature_c": 41.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:22:59.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.4, "meat_temperature_c": 41.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:23:05.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.5, "meat_temperature_c": 41.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:23:11.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.4, "meat_temperature_c": 41.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:23:17.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.8, "meat_temperature_c": 41.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:23:24.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 182.0, "meat_temperature_c": 41.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:23:30.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.5, "meat_temperature_c": 42.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:23:36.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.4, "meat_temperature_c": 42.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:23:42.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.9, "meat_temperature_c": 42.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:23:48.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.3, "meat_temperature_c": 42.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:23:55.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.0, "meat_temperature_c": 42.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:24:01.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.0, "meat_temperature_c": 42.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:24:07.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.7, "meat_temperature_c": 42.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:24:13.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.4, "meat_temperature_c": 42.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:24:20.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.7, "meat_temperature_c": 42.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:24:26.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.7, "meat_temperature_c": 42.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:24:32.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.9, "meat_temperature_c": 43.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:24:38.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.1, "meat_temperature_c": 43.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:24:45.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.3, "meat_temperature_c": 43.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:24:51.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.8, "meat_temperature_c": 43.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:24:57.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.7, "meat_temperature_c": 43.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:25:03.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.0, "meat_temperature_c": 43.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:25:10.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.0, "meat_temperature_c": 43.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:25:16.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.1, "meat_temperature_c": 43.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:25:22.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.2, "meat_temperature_c": 43.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:25:28.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.0, "meat_temperature_c": 43.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:25:35.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.2, "meat_temperature_c": 43.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:25:41.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.0, "meat_temperature_c": 44.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:25:47.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.5, "meat_temperature_c": 44.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:25:53.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.9, "meat_temperature_c": 44.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:26:00.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.8, "meat_temperature_c": 44.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:26:06.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.0, "meat_temperature_c": 44.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:26:12.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.2, "meat_temperature_c": 44.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:26:18.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.3, "meat_temperature_c": 44.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:26:24.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.5, "meat_temperature_c": 44.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:26:31.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.8, "meat_temperature_c": 44.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:26:37.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.9, "meat_temperature_c": 44.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:26:43.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.7, "meat_temperature_c": 44.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:26:49.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.3, "meat_temperature_c": 45.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:26:56.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.9, "meat_temperature_c": 45.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:27:02.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.2, "meat_temperature_c": 45.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:27:08.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.1, "meat_temperature_c": 45.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:27:14.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.0, "meat_temperature_c": 45.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:27:21.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.7, "meat_temperature_c": 45.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:27:27.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.0, "meat_temperature_c": 45.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:27:33.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.8, "meat_temperature_c": 45.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:27:39.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.2, "meat_temperature_c": 45.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:27:46.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.0, "meat_temperature_c": 45.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:27:52.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.2, "meat_temperature_c": 45.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:27:58.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.6, "meat_temperature_c": 46.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:28:04.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.5, "meat_temperature_c": 46.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:28:11.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.5, "meat_temperature_c": 46.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:28:17.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.9, "meat_temperature_c": 46.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:28:23.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.7, "meat_temperature_c": 46.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:28:29.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.8, "meat_temperature_c": 46.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:28:36.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.8, "meat_temperature_c": 46.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:28:42.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.3, "meat_temperature_c": 46.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:28:48.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.3, "meat_temperature_c": 46.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:28:54.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.3, "meat_temperature_c": 46.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:29:00.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.5, "meat_temperature_c": 46.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:29:07.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.5, "meat_temperature_c": 46.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:29:13.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.4, "meat_temperature_c": 47.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:29:19.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.9, "meat_temperature_c": 47.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:29:25.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.1, "meat_temperature_c": 47.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:29:32.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.0, "meat_temperature_c": 47.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:29:38.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.8, "meat_temperature_c": 47.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:29:44.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.8, "meat_temperature_c": 47.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:29:50.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.1, "meat_temperature_c": 47.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:29:57.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.8, "meat_temperature_c": 47.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:30:03.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.5, "meat_temperature_c": 47.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:30:09.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.5, "meat_temperature_c": 47.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:30:15.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.7, "meat_temperature_c": 47.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:30:22.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.1, "meat_temperature_c": 47.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:30:28.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.7, "meat_temperature_c": 48.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:30:34.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.5, "meat_temperature_c": 48.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:30:40.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.8, "meat_temperature_c": 48.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:30:47.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.1, "meat_temperature_c": 48.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:30:53.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.7, "meat_temperature_c": 48.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:30:59.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.1, "meat_temperature_c": 48.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:31:05.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.8, "meat_temperature_c": 48.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:31:12.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.9, "meat_temperature_c": 48.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:31:18.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.8, "meat_temperature_c": 48.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:31:24.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.3, "meat_temperature_c": 48.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:31:30.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.3, "meat_temperature_c": 48.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:31:36.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.9, "meat_temperature_c": 48.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:31:43.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.0, "meat_temperature_c": 49.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:31:49.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.9, "meat_temperature_c": 49.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:31:55.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.2, "meat_temperature_c": 49.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:32:01.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.4, "meat_temperature_c": 49.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:32:08.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.2, "meat_temperature_c": 49.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:32:14.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.3, "meat_temperature_c": 49.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:32:20.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.3, "meat_temperature_c": 49.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:32:26.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.6, "meat_temperature_c": 49.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:32:33.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.2, "meat_temperature_c": 49.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:32:39.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.2, "meat_temperature_c": 49.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:32:45.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.0, "meat_temperature_c": 49.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:32:51.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.3, "meat_temperature_c": 49.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:32:58.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.4, "meat_temperature_c": 49.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:33:04.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.7, "meat_temperature_c": 50.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:33:10.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.3, "meat_temperature_c": 50.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:33:16.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.2, "meat_temperature_c": 50.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:33:23.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.9, "meat_temperature_c": 50.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:33:29.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 182.0, "meat_temperature_c": 50.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:33:35.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.7, "meat_temperature_c": 50.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:33:41.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.0, "meat_temperature_c": 50.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:33:48.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.9, "meat_temperature_c": 50.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:33:54.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.1, "meat_temperature_c": 50.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:34:00.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.8, "meat_temperature_c": 50.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:34:06.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.9, "meat_temperature_c": 50.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:34:12.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.7, "meat_temperature_c": 50.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:34:19.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.1, "meat_temperature_c": 50.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:34:25.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.2, "meat_temperature_c": 50.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:34:31.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.5, "meat_temperature_c": 51.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:34:37.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.8, "meat_temperature_c": 51.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:34:44.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.0, "meat_temperature_c": 51.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:34:50.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.1, "meat_temperature_c": 51.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:34:56.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.4, "meat_temperature_c": 51.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:35:02.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.5, "meat_temperature_c": 51.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:35:09.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.5, "meat_temperature_c": 51.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:35:15.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 182.0, "meat_temperature_c": 51.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:35:21.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.8, "meat_temperature_c": 51.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:35:27.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.1, "meat_temperature_c": 51.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:35:34.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.8, "meat_temperature_c": 51.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:35:40.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.1, "meat_temperature_c": 51.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:35:46.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.6, "meat_temperature_c": 51.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:35:52.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.2, "meat_temperature_c": 51.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:35:59.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.4, "meat_temperature_c": 52.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:36:05.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.8, "meat_temperature_c": 52.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:36:11.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.3, "meat_temperature_c": 52.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:36:17.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.5, "meat_temperature_c": 52.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:36:24.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.4, "meat_temperature_c": 52.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:36:30.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 182.0, "meat_temperature_c": 52.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:36:36.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.2, "meat_temperature_c": 52.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:36:42.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.2, "meat_temperature_c": 52.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:36:48.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.7, "meat_temperature_c": 52.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:36:55.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.9, "meat_temperature_c": 52.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:37:01.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 182.0, "meat_temperature_c": 52.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:37:07.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.0, "meat_temperature_c": 52.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:37:13.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.2, "meat_temperature_c": 52.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:37:20.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.9, "meat_temperature_c": 52.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:37:26.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.4, "meat_temperature_c": 52.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:37:32.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 182.0, "meat_temperature_c": 53.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:37:38.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.3, "meat_temperature_c": 53.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:37:45.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.3, "meat_temperature_c": 53.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:37:51.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.3, "meat_temperature_c": 53.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:37:57.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.3, "meat_temperature_c": 53.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:38:03.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.0, "meat_temperature_c": 53.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:38:10.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.3, "meat_temperature_c": 53.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:38:16.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.5, "meat_temperature_c": 53.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:38:22.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.5, "meat_temperature_c": 53.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:38:28.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.4, "meat_temperature_c": 53.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:38:35.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.8, "meat_temperature_c": 53.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:38:41.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.5, "meat_temperature_c": 53.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:38:47.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.5, "meat_temperature_c": 53.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:38:53.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.7, "meat_temperature_c": 53.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:39:00.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.8, "meat_temperature_c": 53.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:39:06.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.5, "meat_temperature_c": 54.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:39:12.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.6, "meat_temperature_c": 54.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:39:18.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.1, "meat_temperature_c": 54.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:39:24.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.4, "meat_temperature_c": 54.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:39:31.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.8, "meat_temperature_c": 54.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:39:37.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.7, "meat_temperature_c": 54.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:39:43.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.8, "meat_temperature_c": 54.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:39:49.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.4, "meat_temperature_c": 54.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:39:56.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.0, "meat_temperature_c": 54.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:40:02.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.7, "meat_temperature_c": 54.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:40:08.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.1, "meat_temperature_c": 54.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:40:14.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.3, "meat_temperature_c": 54.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:40:21.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.1, "meat_temperature_c": 54.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:40:27.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.1, "meat_temperature_c": 54.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:40:33.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.7, "meat_temperature_c": 54.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:40:39.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.2, "meat_temperature_c": 54.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:40:46.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.6, "meat_temperature_c": 54.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:40:52.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.9, "meat_temperature_c": 55.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:40:58.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.4, "meat_temperature_c": 55.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:41:04.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.9, "meat_temperature_c": 55.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:41:11.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.3, "meat_temperature_c": 55.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:41:17.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.5, "meat_temperature_c": 55.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:41:23.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.4, "meat_temperature_c": 55.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:41:29.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.5, "meat_temperature_c": 55.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:41:36.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.9, "meat_temperature_c": 55.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:41:42.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.8, "meat_temperature_c": 55.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:41:48.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.2, "meat_temperature_c": 55.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:41:54.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.8, "meat_temperature_c": 55.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:42:00.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.4, "meat_temperature_c": 55.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:42:07.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.3, "meat_temperature_c": 55.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:42:13.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.4, "meat_temperature_c": 55.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:42:19.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.8, "meat_temperature_c": 55.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:42:25.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.3, "meat_temperature_c": 55.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:42:32.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.8, "meat_temperature_c": 55.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:42:38.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.2, "meat_temperature_c": 56.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:42:44.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.2, "meat_temperature_c": 56.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:42:50.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.4, "meat_temperature_c": 56.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:42:57.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.8, "meat_temperature_c": 56.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:43:03.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.1, "meat_temperature_c": 56.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:43:09.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.6, "meat_temperature_c": 56.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:43:15.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.3, "meat_temperature_c": 56.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:43:22.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.7, "meat_temperature_c": 56.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:43:28.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 182.0, "meat_temperature_c": 56.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:43:34.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.4, "meat_temperature_c": 56.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:43:40.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.4, "meat_temperature_c": 56.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:43:47.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 182.0, "meat_temperature_c": 56.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:43:53.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.8, "meat_temperature_c": 56.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:43:59.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.0, "meat_temperature_c": 56.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:44:05.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.7, "meat_temperature_c": 56.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:44:12.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.8, "meat_temperature_c": 56.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:44:18.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.7, "meat_temperature_c": 56.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:44:24.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.0, "meat_temperature_c": 56.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:44:30.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.3, "meat_temperature_c": 57.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:44:36.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.2, "meat_temperature_c": 57.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:44:43.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.9, "meat_temperature_c": 57.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:44:49.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.5, "meat_temperature_c": 57.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:44:55.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.3, "meat_temperature_c": 57.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:45:01.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.7, "meat_temperature_c": 57.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:45:08.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.6, "meat_temperature_c": 57.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:45:14.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.5, "meat_temperature_c": 57.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:45:20.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.1, "meat_temperature_c": 57.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:45:26.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.2, "meat_temperature_c": 57.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:45:33.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.6, "meat_temperature_c": 57.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:45:39.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.7, "meat_temperature_c": 57.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:45:45.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.7, "meat_temperature_c": 57.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:45:51.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.5, "meat_temperature_c": 57.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:45:58.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.0, "meat_temperature_c": 57.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:46:04.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.6, "meat_temperature_c": 57.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:46:10.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.7, "meat_temperature_c": 57.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:46:16.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.8, "meat_temperature_c": 57.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:46:23.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.7, "meat_temperature_c": 57.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:46:29.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.2, "meat_temperature_c": 58.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:46:35.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.3, "meat_temperature_c": 58.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:46:41.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.1, "meat_temperature_c": 58.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:46:48.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.7, "meat_temperature_c": 58.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:46:54.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.6, "meat_temperature_c": 58.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:47:00.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.2, "meat_temperature_c": 58.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:47:06.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.4, "meat_temperature_c": 58.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:47:12.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.0, "meat_temperature_c": 58.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:47:19.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.7, "meat_temperature_c": 58.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:47:25.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.3, "meat_temperature_c": 58.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:47:31.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.6, "meat_temperature_c": 58.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:47:37.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.5, "meat_temperature_c": 58.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:47:44.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 182.0, "meat_temperature_c": 58.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:47:50.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.9, "meat_temperature_c": 58.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:47:56.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.6, "meat_temperature_c": 58.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:48:02.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.4, "meat_temperature_c": 58.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:48:09.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.7, "meat_temperature_c": 58.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:48:15.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.0, "meat_temperature_c": 58.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:48:21.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.9, "meat_temperature_c": 58.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:48:27.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.3, "meat_temperature_c": 58.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:48:34.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.2, "meat_temperature_c": 59.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:48:40.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.5, "meat_temperature_c": 59.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:48:46.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.4, "meat_temperature_c": 59.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:48:52.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.1, "meat_temperature_c": 59.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:48:59.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.8, "meat_temperature_c": 59.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:49:05.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.4, "meat_temperature_c": 59.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:49:11.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.1, "meat_temperature_c": 59.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:49:17.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.8, "meat_temperature_c": 59.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:49:24.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.4, "meat_temperature_c": 59.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:49:30.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.0, "meat_temperature_c": 59.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:49:36.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.2, "meat_temperature_c": 59.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:49:42.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.5, "meat_temperature_c": 59.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:49:48.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.7, "meat_temperature_c": 59.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:49:55.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.8, "meat_temperature_c": 59.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:50:01.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.7, "meat_temperature_c": 59.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:50:07.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.7, "meat_temperature_c": 59.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:50:13.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.5, "meat_temperature_c": 59.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:50:20.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.4, "meat_temperature_c": 59.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:50:26.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.8, "meat_temperature_c": 59.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:50:32.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.8, "meat_temperature_c": 59.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:50:38.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.0, "meat_temperature_c": 59.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:50:45.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.5, "meat_temperature_c": 60.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:50:51.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.4, "meat_temperature_c": 60.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:50:57.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.5, "meat_temperature_c": 60.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:51:03.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.4, "meat_temperature_c": 60.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:51:10.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.6, "meat_temperature_c": 60.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:51:16.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.0, "meat_temperature_c": 60.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:51:22.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.6, "meat_temperature_c": 60.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:51:28.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.0, "meat_temperature_c": 60.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:51:35.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.8, "meat_temperature_c": 60.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:51:41.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.6, "meat_temperature_c": 60.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:51:47.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.3, "meat_temperature_c": 60.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:51:53.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.7, "meat_temperature_c": 60.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:52:00.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.9, "meat_temperature_c": 60.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:52:06.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.5, "meat_temperature_c": 60.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:52:12.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.9, "meat_temperature_c": 60.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:52:18.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.1, "meat_temperature_c": 60.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:52:24.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.2, "meat_temperature_c": 60.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:52:31.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.7, "meat_temperature_c": 60.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:52:37.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.6, "meat_temperature_c": 60.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:52:43.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.5, "meat_temperature_c": 60.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:52:49.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.3, "meat_temperature_c": 60.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:52:56.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.4, "meat_temperature_c": 60.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:53:02.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.5, "meat_temperature_c": 60.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:53:08.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.8, "meat_temperature_c": 61.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:53:14.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.8, "meat_temperature_c": 61.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:53:21.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.1, "meat_temperature_c": 61.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:53:27.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.4, "meat_temperature_c": 61.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:53:33.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.5, "meat_temperature_c": 61.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:53:39.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.5, "meat_temperature_c": 61.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:53:46.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.3, "meat_temperature_c": 61.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:53:52.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.7, "meat_temperature_c": 61.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:53:58.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.8, "meat_temperature_c": 61.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:54:04.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.4, "meat_temperature_c": 61.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:54:11.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.9, "meat_temperature_c": 61.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:54:17.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.9, "meat_temperature_c": 61.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:54:23.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.1, "meat_temperature_c": 61.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:54:29.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.0, "meat_temperature_c": 61.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:54:36.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.5, "meat_temperature_c": 61.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:54:42.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.5, "meat_temperature_c": 61.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:54:48.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.6, "meat_temperature_c": 61.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:54:54.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.3, "meat_temperature_c": 61.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:55:00.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.5, "meat_temperature_c": 61.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:55:07.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.3, "meat_temperature_c": 61.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:55:13.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.6, "meat_temperature_c": 61.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:55:19.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.5, "meat_temperature_c": 61.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:55:25.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.1, "meat_temperature_c": 61.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:55:32.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.9, "meat_temperature_c": 61.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:55:38.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.2, "meat_temperature_c": 61.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:55:44.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.2, "meat_temperature_c": 62.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:55:50.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.1, "meat_temperature_c": 62.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:55:57.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.2, "meat_temperature_c": 62.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:56:03.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.7, "meat_temperature_c": 62.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:56:09.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.1, "meat_temperature_c": 62.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:56:15.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.7, "meat_temperature_c": 62.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:56:22.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.9, "meat_temperature_c": 62.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:56:28.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.5, "meat_temperature_c": 62.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:56:34.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.9, "meat_temperature_c": 62.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:56:40.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.0, "meat_temperature_c": 62.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:56:47.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.2, "meat_temperature_c": 62.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:56:53.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.8, "meat_temperature_c": 62.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:56:59.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.4, "meat_temperature_c": 62.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:57:05.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.8, "meat_temperature_c": 62.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:57:12.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.7, "meat_temperature_c": 62.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:57:18.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.9, "meat_temperature_c": 62.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:57:24.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.3, "meat_temperature_c": 62.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:57:30.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.2, "meat_temperature_c": 62.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:57:36.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.8, "meat_temperature_c": 62.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:57:43.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.5, "meat_temperature_c": 62.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:57:49.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.4, "meat_temperature_c": 62.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:57:55.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.8, "meat_temperature_c": 62.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:58:01.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.9, "meat_temperature_c": 62.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:58:08.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.1, "meat_temperature_c": 62.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:58:14.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.6, "meat_temperature_c": 62.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:58:20.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.5, "meat_temperature_c": 62.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:58:26.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.2, "meat_temperature_c": 63.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:58:33.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.8, "meat_temperature_c": 63.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:58:39.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.1, "meat_temperature_c": 63.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:58:45.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.8, "meat_temperature_c": 63.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:58:51.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.6, "meat_temperature_c": 63.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:58:58.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.8, "meat_temperature_c": 63.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:59:04.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.6, "meat_temperature_c": 63.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:59:10.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.2, "meat_temperature_c": 63.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:59:16.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.7, "meat_temperature_c": 63.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:59:23.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.9, "meat_temperature_c": 63.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:59:29.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.0, "meat_temperature_c": 63.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:59:35.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.9, "meat_temperature_c": 63.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:59:41.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.8, "meat_temperature_c": 63.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:59:48.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.5, "meat_temperature_c": 63.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T10:59:54.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.2, "meat_temperature_c": 63.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:00:00.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.2, "meat_temperature_c": 63.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:00:06.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.1, "meat_temperature_c": 63.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:00:12.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.6, "meat_temperature_c": 63.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:00:19.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.9, "meat_temperature_c": 63.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:00:25.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.1, "meat_temperature_c": 63.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:00:31.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.8, "meat_temperature_c": 63.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:00:37.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.3, "meat_temperature_c": 63.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:00:44.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.4, "meat_temperature_c": 63.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:00:50.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.1, "meat_temperature_c": 63.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:00:56.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.0, "meat_temperature_c": 63.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:01:02.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.2, "meat_temperature_c": 63.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:01:09.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 182.0, "meat_temperature_c": 63.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:01:15.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.3, "meat_temperature_c": 63.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:01:21.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.4, "meat_temperature_c": 63.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:01:27.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.4, "meat_temperature_c": 64.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:01:34.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.4, "meat_temperature_c": 64.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:01:40.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.4, "meat_temperature_c": 64.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:01:46.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.2, "meat_temperature_c": 64.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:01:52.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.3, "meat_temperature_c": 64.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:01:59.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.1, "meat_temperature_c": 64.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:02:05.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.3, "meat_temperature_c": 64.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:02:11.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.0, "meat_temperature_c": 64.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:02:17.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.8, "meat_temperature_c": 64.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:02:24.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.3, "meat_temperature_c": 64.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:02:30.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.8, "meat_temperature_c": 64.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:02:36.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.3, "meat_temperature_c": 64.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:02:42.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.3, "meat_temperature_c": 64.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:02:48.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.8, "meat_temperature_c": 64.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:02:55.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.4, "meat_temperature_c": 64.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:03:01.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.4, "meat_temperature_c": 64.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:03:07.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.6, "meat_temperature_c": 64.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:03:13.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.2, "meat_temperature_c": 64.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:03:20.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.7, "meat_temperature_c": 64.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:03:26.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.2, "meat_temperature_c": 64.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:03:32.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.1, "meat_temperature_c": 64.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:03:38.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.2, "meat_temperature_c": 64.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:03:45.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.1, "meat_temperature_c": 64.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:03:51.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.3, "meat_temperature_c": 64.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:03:57.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.9, "meat_temperature_c": 64.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:04:03.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.5, "meat_temperature_c": 64.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:04:10.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.3, "meat_temperature_c": 64.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:04:16.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.4, "meat_temperature_c": 64.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:04:22.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.3, "meat_temperature_c": 64.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:04:28.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.9, "meat_temperature_c": 64.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:04:35.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 182.0, "meat_temperature_c": 64.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:04:41.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.2, "meat_temperature_c": 64.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:04:47.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.5, "meat_temperature_c": 65.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:04:53.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.9, "meat_temperature_c": 65.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:05:00.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.7, "meat_temperature_c": 65.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:05:06.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.4, "meat_temperature_c": 65.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:05:12.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.6, "meat_temperature_c": 65.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:05:18.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.7, "meat_temperature_c": 65.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:05:24.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.4, "meat_temperature_c": 65.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:05:31.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.8, "meat_temperature_c": 65.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:05:37.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.1, "meat_temperature_c": 65.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:05:43.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.1, "meat_temperature_c": 65.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:05:49.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.8, "meat_temperature_c": 65.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:05:56.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.6, "meat_temperature_c": 65.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:06:02.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.0, "meat_temperature_c": 65.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:06:08.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.4, "meat_temperature_c": 65.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:06:14.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.1, "meat_temperature_c": 65.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:06:21.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.1, "meat_temperature_c": 65.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:06:27.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.3, "meat_temperature_c": 65.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:06:33.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.8, "meat_temperature_c": 65.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:06:39.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.3, "meat_temperature_c": 65.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:06:46.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.2, "meat_temperature_c": 65.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:06:52.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.0, "meat_temperature_c": 65.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:06:58.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.8, "meat_temperature_c": 65.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:07:04.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.8, "meat_temperature_c": 65.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:07:11.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.4, "meat_temperature_c": 65.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:07:17.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.5, "meat_temperature_c": 65.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:07:23.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.2, "meat_temperature_c": 65.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:07:29.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.8, "meat_temperature_c": 65.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:07:36.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.0, "meat_temperature_c": 65.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:07:42.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.0, "meat_temperature_c": 65.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:07:48.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.1, "meat_temperature_c": 65.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:07:54.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.2, "meat_temperature_c": 65.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:08:00.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.2, "meat_temperature_c": 65.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:08:07.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.3, "meat_temperature_c": 65.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:08:13.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.1, "meat_temperature_c": 65.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:08:19.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.0, "meat_temperature_c": 65.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:08:25.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.0, "meat_temperature_c": 66.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:08:32.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.7, "meat_temperature_c": 66.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:08:38.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.2, "meat_temperature_c": 66.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:08:44.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.3, "meat_temperature_c": 66.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:08:50.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.3, "meat_temperature_c": 66.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:08:57.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.6, "meat_temperature_c": 66.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:09:03.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.5, "meat_temperature_c": 66.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:09:09.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.4, "meat_temperature_c": 66.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:09:15.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.4, "meat_temperature_c": 66.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:09:22.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.4, "meat_temperature_c": 66.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:09:28.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.2, "meat_temperature_c": 66.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:09:34.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.1, "meat_temperature_c": 66.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:09:40.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.1, "meat_temperature_c": 66.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:09:47.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.9, "meat_temperature_c": 66.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:09:53.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.3, "meat_temperature_c": 66.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:09:59.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.1, "meat_temperature_c": 66.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:10:05.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.0, "meat_temperature_c": 66.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:10:12.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.5, "meat_temperature_c": 66.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:10:18.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.0, "meat_temperature_c": 66.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:10:24.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 182.0, "meat_temperature_c": 66.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:10:30.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.9, "meat_temperature_c": 66.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:10:36.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.9, "meat_temperature_c": 66.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:10:43.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.5, "meat_temperature_c": 66.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:10:49.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.6, "meat_temperature_c": 66.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:10:55.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.0, "meat_temperature_c": 66.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:11:01.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.3, "meat_temperature_c": 66.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:11:08.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.8, "meat_temperature_c": 66.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:11:14.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.5, "meat_temperature_c": 66.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:11:20.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.1, "meat_temperature_c": 66.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:11:26.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.0, "meat_temperature_c": 66.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:11:33.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.3, "meat_temperature_c": 66.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:11:39.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.8, "meat_temperature_c": 66.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:11:45.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.8, "meat_temperature_c": 66.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:11:51.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.7, "meat_temperature_c": 66.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:11:58.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.8, "meat_temperature_c": 66.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:12:04.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.8, "meat_temperature_c": 66.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:12:10.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.9, "meat_temperature_c": 66.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:12:16.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.6, "meat_temperature_c": 66.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:12:23.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.9, "meat_temperature_c": 66.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:12:29.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.4, "meat_temperature_c": 67.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:12:35.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.0, "meat_temperature_c": 67.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:12:41.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.7, "meat_temperature_c": 67.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:12:48.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.8, "meat_temperature_c": 67.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:12:54.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.8, "meat_temperature_c": 67.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:13:00.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.7, "meat_temperature_c": 67.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:13:06.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.3, "meat_temperature_c": 67.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:13:12.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.3, "meat_temperature_c": 67.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:13:19.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.7, "meat_temperature_c": 67.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:13:25.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.6, "meat_temperature_c": 67.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:13:31.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.7, "meat_temperature_c": 67.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:13:37.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.7, "meat_temperature_c": 67.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:13:44.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.2, "meat_temperature_c": 67.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:13:50.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.1, "meat_temperature_c": 67.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:13:56.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.9, "meat_temperature_c": 67.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:14:02.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.1, "meat_temperature_c": 67.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:14:09.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.1, "meat_temperature_c": 67.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:14:15.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.3, "meat_temperature_c": 67.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:14:21.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.3, "meat_temperature_c": 67.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:14:27.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.5, "meat_temperature_c": 67.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:14:34.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.6, "meat_temperature_c": 67.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:14:40.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.2, "meat_temperature_c": 67.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:14:46.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.4, "meat_temperature_c": 67.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:14:52.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 182.0, "meat_temperature_c": 67.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:14:59.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.9, "meat_temperature_c": 67.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:15:05.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.3, "meat_temperature_c": 67.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:15:11.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.1, "meat_temperature_c": 67.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:15:17.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.7, "meat_temperature_c": 67.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:15:24.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.0, "meat_temperature_c": 67.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:15:30.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.9, "meat_temperature_c": 67.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:15:36.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.9, "meat_temperature_c": 67.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:15:42.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.8, "meat_temperature_c": 67.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:15:48.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.2, "meat_temperature_c": 67.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:15:55.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.4, "meat_temperature_c": 67.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:16:01.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.2, "meat_temperature_c": 67.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:16:07.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.1, "meat_temperature_c": 67.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:16:13.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.3, "meat_temperature_c": 67.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:16:20.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.5, "meat_temperature_c": 67.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:16:26.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.8, "meat_temperature_c": 67.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:16:32.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.8, "meat_temperature_c": 67.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:16:38.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.6, "meat_temperature_c": 67.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:16:45.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.3, "meat_temperature_c": 67.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:16:51.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.7, "meat_temperature_c": 67.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:16:57.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.2, "meat_temperature_c": 67.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:17:03.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.1, "meat_temperature_c": 68.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:17:10.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.4, "meat_temperature_c": 68.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:17:16.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.5, "meat_temperature_c": 68.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:17:22.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.1, "meat_temperature_c": 68.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:17:28.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.3, "meat_temperature_c": 68.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:17:35.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.1, "meat_temperature_c": 68.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:17:41.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.2, "meat_temperature_c": 68.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:17:47.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.4, "meat_temperature_c": 68.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:17:53.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.4, "meat_temperature_c": 68.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:18:00.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.0, "meat_temperature_c": 68.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:18:06.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.0, "meat_temperature_c": 68.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:18:12.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.9, "meat_temperature_c": 68.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:18:18.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.2, "meat_temperature_c": 68.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:18:24.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.1, "meat_temperature_c": 68.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:18:31.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.1, "meat_temperature_c": 68.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:18:37.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.9, "meat_temperature_c": 68.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:18:43.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.9, "meat_temperature_c": 68.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:18:49.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.1, "meat_temperature_c": 68.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:18:56.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.7, "meat_temperature_c": 68.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:19:02.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.5, "meat_temperature_c": 68.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:19:08.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.9, "meat_temperature_c": 68.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:19:14.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.8, "meat_temperature_c": 68.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:19:21.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.5, "meat_temperature_c": 68.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:19:27.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.6, "meat_temperature_c": 68.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:19:33.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.3, "meat_temperature_c": 68.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:19:39.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.7, "meat_temperature_c": 68.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:19:46.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.9, "meat_temperature_c": 68.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:19:52.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.2, "meat_temperature_c": 68.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:19:58.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.9, "meat_temperature_c": 68.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:20:04.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.3, "meat_temperature_c": 68.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:20:11.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.7, "meat_temperature_c": 68.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:20:17.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.5, "meat_temperature_c": 68.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:20:23.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.0, "meat_temperature_c": 68.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:20:29.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.3, "meat_temperature_c": 68.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:20:36.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.5, "meat_temperature_c": 68.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:20:42.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.8, "meat_temperature_c": 68.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:20:48.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.2, "meat_temperature_c": 68.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:20:54.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.8, "meat_temperature_c": 68.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:21:00.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.8, "meat_temperature_c": 68.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:21:07.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 182.0, "meat_temperature_c": 68.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:21:13.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.1, "meat_temperature_c": 68.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:21:19.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.4, "meat_temperature_c": 68.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:21:25.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.0, "meat_temperature_c": 68.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:21:32.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.4, "meat_temperature_c": 68.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:21:38.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.5, "meat_temperature_c": 68.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:21:44.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.6, "meat_temperature_c": 68.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:21:50.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.3, "meat_temperature_c": 68.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:21:57.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.6, "meat_temperature_c": 68.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:22:03.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.7, "meat_temperature_c": 68.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:22:09.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.5, "meat_temperature_c": 68.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:22:15.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.2, "meat_temperature_c": 68.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:22:22.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.9, "meat_temperature_c": 69.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:22:28.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.6, "meat_temperature_c": 69.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:22:34.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.5, "meat_temperature_c": 69.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:22:40.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.4, "meat_temperature_c": 69.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:22:47.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.2, "meat_temperature_c": 69.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:22:53.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.4, "meat_temperature_c": 69.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:22:59.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.6, "meat_temperature_c": 69.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:23:05.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.1, "meat_temperature_c": 69.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:23:12.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.3, "meat_temperature_c": 69.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:23:18.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.7, "meat_temperature_c": 69.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:23:24.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.3, "meat_temperature_c": 69.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:23:30.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.1, "meat_temperature_c": 69.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:23:36.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.7, "meat_temperature_c": 69.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:23:43.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.2, "meat_temperature_c": 69.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:23:49.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.6, "meat_temperature_c": 69.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:23:55.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.5, "meat_temperature_c": 69.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:24:01.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.7, "meat_temperature_c": 69.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:24:08.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.5, "meat_temperature_c": 69.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:24:14.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.2, "meat_temperature_c": 69.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:24:20.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.2, "meat_temperature_c": 69.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:24:26.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.6, "meat_temperature_c": 69.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:24:33.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.6, "meat_temperature_c": 69.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:24:39.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.9, "meat_temperature_c": 69.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:24:45.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.6, "meat_temperature_c": 69.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:24:51.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.6, "meat_temperature_c": 69.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:24:58.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.5, "meat_temperature_c": 69.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:25:04.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.5, "meat_temperature_c": 69.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:25:10.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.7, "meat_temperature_c": 69.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:25:16.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.5, "meat_temperature_c": 69.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:25:23.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.1, "meat_temperature_c": 69.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:25:29.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.2, "meat_temperature_c": 69.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:25:35.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.1, "meat_temperature_c": 69.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:25:41.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.1, "meat_temperature_c": 69.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:25:48.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.0, "meat_temperature_c": 69.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:25:54.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.2, "meat_temperature_c": 69.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:26:00.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.2, "meat_temperature_c": 69.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:26:06.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.6, "meat_temperature_c": 69.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:26:12.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.7, "meat_temperature_c": 69.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:26:19.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.3, "meat_temperature_c": 69.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:26:25.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.5, "meat_temperature_c": 69.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:26:31.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.9, "meat_temperature_c": 69.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:26:37.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.1, "meat_temperature_c": 69.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:26:44.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.2, "meat_temperature_c": 69.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:26:50.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.3, "meat_temperature_c": 69.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:26:56.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.0, "meat_temperature_c": 69.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:27:02.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.8, "meat_temperature_c": 69.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:27:09.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.9, "meat_temperature_c": 69.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:27:15.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.4, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:27:21.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.6, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:27:27.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.8, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:27:34.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.2, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:27:40.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.8, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:27:46.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.7, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:27:52.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.7, "meat_temperature_c": 69.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:27:59.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.1, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:28:05.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.4, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:28:11.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.9, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:28:17.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.0, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:28:24.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.2, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:28:30.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.7, "meat_temperature_c": 69.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:28:36.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.7, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:28:42.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.0, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:28:48.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.0, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:28:55.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.0, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:29:01.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.5, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:29:07.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.2, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:29:13.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.7, "meat_temperature_c": 70.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:29:20.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.2, "meat_temperature_c": 70.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:29:26.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.7, "meat_temperature_c": 70.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:29:32.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.6, "meat_temperature_c": 70.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:29:38.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.7, "meat_temperature_c": 70.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:29:45.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.2, "meat_temperature_c": 70.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:29:51.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.1, "meat_temperature_c": 70.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:29:57.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.6, "meat_temperature_c": 70.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:30:03.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.3, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:30:10.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.9, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:30:16.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.1, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:30:22.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.4, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:30:28.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.0, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:30:35.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.7, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:30:41.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.3, "meat_temperature_c": 70.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:30:47.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.6, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:30:53.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.4, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:31:00.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.7, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:31:06.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.3, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:31:12.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.4, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:31:18.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.8, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:31:24.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.8, "meat_temperature_c": 70.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:31:31.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.1, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:31:37.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.7, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:31:43.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.1, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:31:49.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.0, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:31:56.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.9, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:32:02.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.5, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:32:08.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.7, "meat_temperature_c": 70.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:32:14.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.9, "meat_temperature_c": 70.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:32:21.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.6, "meat_temperature_c": 70.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:32:27.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.6, "meat_temperature_c": 70.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:32:33.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.3, "meat_temperature_c": 70.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:32:39.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.4, "meat_temperature_c": 70.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:32:46.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.6, "meat_temperature_c": 70.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:32:52.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.8, "meat_temperature_c": 70.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:32:58.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.3, "meat_temperature_c": 70.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:33:04.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.1, "meat_temperature_c": 70.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:33:11.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.8, "meat_temperature_c": 70.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:33:17.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.7, "meat_temperature_c": 70.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:33:23.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.7, "meat_temperature_c": 70.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:33:29.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.0, "meat_temperature_c": 70.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:33:36.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.0, "meat_temperature_c": 70.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:33:42.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.0, "meat_temperature_c": 70.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:33:48.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.8, "meat_temperature_c": 70.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:33:54.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.5, "meat_temperature_c": 70.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:34:00.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.0, "meat_temperature_c": 70.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:34:07.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.5, "meat_temperature_c": 70.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:34:13.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.0, "meat_temperature_c": 70.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:34:19.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.6, "meat_temperature_c": 70.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:34:25.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.2, "meat_temperature_c": 70.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:34:32.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.2, "meat_temperature_c": 70.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:34:38.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.8, "meat_temperature_c": 70.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:34:44.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.0, "meat_temperature_c": 70.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:34:50.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.1, "meat_temperature_c": 70.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:34:57.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.2, "meat_temperature_c": 70.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:35:03.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.8, "meat_temperature_c": 70.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:35:09.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.2, "meat_temperature_c": 70.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:35:15.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.5, "meat_temperature_c": 70.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:35:22.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.5, "meat_temperature_c": 70.8}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:35:28.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.4, "meat_temperature_c": 70.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:35:34.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.1, "meat_temperature_c": 70.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:35:40.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.4, "meat_temperature_c": 70.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:35:47.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.3, "meat_temperature_c": 70.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:35:53.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 182.0, "meat_temperature_c": 70.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:35:59.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.3, "meat_temperature_c": 70.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:36:05.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.0, "meat_temperature_c": 70.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:36:12.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.5, "meat_temperature_c": 70.9}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:36:18.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.3, "meat_temperature_c": 71.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:36:24.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.6, "meat_temperature_c": 71.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:36:30.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.4, "meat_temperature_c": 71.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:36:36.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.5, "meat_temperature_c": 71.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:36:43.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.4, "meat_temperature_c": 71.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:36:49.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.9, "meat_temperature_c": 71.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:36:55.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.6, "meat_temperature_c": 71.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:37:01.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.1, "meat_temperature_c": 71.0}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:37:08.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.9, "meat_temperature_c": 71.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:37:14.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.5, "meat_temperature_c": 71.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:37:20.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.3, "meat_temperature_c": 71.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:37:26.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.8, "meat_temperature_c": 71.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:37:33.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 182.0, "meat_temperature_c": 71.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:37:39.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.8, "meat_temperature_c": 71.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:37:45.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.1, "meat_temperature_c": 71.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:37:51.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.2, "meat_temperature_c": 71.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:37:58.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.3, "meat_temperature_c": 71.1}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:38:04.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.7, "meat_temperature_c": 71.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:38:10.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.0, "meat_temperature_c": 71.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:38:16.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.4, "meat_temperature_c": 71.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:38:23.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.7, "meat_temperature_c": 71.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:38:29.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.0, "meat_temperature_c": 71.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:38:35.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.3, "meat_temperature_c": 71.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:38:41.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.7, "meat_temperature_c": 71.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:38:48.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.9, "meat_temperature_c": 71.2}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:38:54.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.8, "meat_temperature_c": 71.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:39:00.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.6, "meat_temperature_c": 71.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:39:06.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.5, "meat_temperature_c": 71.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:39:12.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.2, "meat_temperature_c": 71.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:39:19.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.8, "meat_temperature_c": 71.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:39:25.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.7, "meat_temperature_c": 71.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:39:31.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.5, "meat_temperature_c": 71.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:39:37.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.0, "meat_temperature_c": 71.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:39:44.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.4, "meat_temperature_c": 71.3}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:39:50.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.7, "meat_temperature_c": 71.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:39:56.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.1, "meat_temperature_c": 71.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:40:02.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.4, "meat_temperature_c": 71.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:40:09.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.3, "meat_temperature_c": 71.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:40:15.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.2, "meat_temperature_c": 71.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:40:21.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.6, "meat_temperature_c": 71.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:40:27.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.2, "meat_temperature_c": 71.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:40:34.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.2, "meat_temperature_c": 71.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:40:40.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.1, "meat_temperature_c": 71.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:40:46.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.6, "meat_temperature_c": 71.4}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:40:52.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.2, "meat_temperature_c": 71.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:40:59.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.7, "meat_temperature_c": 71.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:41:05.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.6, "meat_temperature_c": 71.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:41:11.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.4, "meat_temperature_c": 71.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:41:17.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.4, "meat_temperature_c": 71.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:41:24.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.4, "meat_temperature_c": 71.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:41:30.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.6, "meat_temperature_c": 71.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:41:36.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 182.0, "meat_temperature_c": 71.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:41:42.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.7, "meat_temperature_c": 71.5}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:41:48.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.6, "meat_temperature_c": 71.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:41:55.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.1, "meat_temperature_c": 71.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:42:01.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.5, "meat_temperature_c": 71.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:42:07.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.7, "meat_temperature_c": 71.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:42:13.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.5, "meat_temperature_c": 71.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:42:20.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.1, "meat_temperature_c": 71.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:42:26.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.0, "meat_temperature_c": 71.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:42:32.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.0, "meat_temperature_c": 71.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:42:38.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.2, "meat_temperature_c": 71.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:42:45.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.6, "meat_temperature_c": 71.6}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:42:51.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.2, "meat_temperature_c": 71.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:42:57.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.5, "meat_temperature_c": 71.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:43:03.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.2, "meat_temperature_c": 71.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:43:10.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.4, "meat_temperature_c": 71.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:43:16.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.2, "meat_temperature_c": 71.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:43:22.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 178.1, "meat_temperature_c": 71.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:43:28.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 180.0, "meat_temperature_c": 71.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:43:35.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.4, "meat_temperature_c": 71.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:43:41.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.4, "meat_temperature_c": 71.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:43:47.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 179.5, "meat_temperature_c": 71.7}
+{"create": {}}
+{"@timestamp": "2025-06-07T11:43:53.000Z", "cook_id": "cook-W23", "recipe": "chicken", "ambient_temperature_c": 181.3, "meat_temperature_c": 71.8}
