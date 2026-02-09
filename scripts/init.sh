@@ -68,3 +68,64 @@ for file in cooks_2025/*.ndjson;
 do                                                                          
 curl -H "Content-Type: application/x-ndjson" -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" -XPOST "http://elasticsearch-es-http.default.svc:9200/metrics-cook_sensors-2025/_bulk" --data-binary "@$file"
 done
+
+curl -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" \
+     -H "Content-Type: application/json" \
+     -X PUT "http://elasticsearch-es-http.default.svc:9200/_transform/2025_cooking_stats" \
+     -d '
+{
+  "source": {
+    "index": [
+      "metrics-cook_sensors-*"
+    ],
+    "query": {
+      "match_all": {}
+    }
+  },
+  "dest": {
+    "index": "2025_cooking_stats"
+  },
+  "pivot": {
+    "group_by": {
+      "cook_id": {
+        "terms": {
+          "field": "cook_id"
+        }
+      },
+      "recipe": {
+        "terms": {
+          "field": "recipe"
+        }
+      }
+    },
+    "aggregations": {
+      "max_meat_temperature_c": {
+        "max": {
+          "field": "meat_temperature_c"
+        }
+      },
+      "min_meat_temperature_c": {
+        "min": {
+          "field": "meat_temperature_c"
+        }
+      },
+      "avg_ambient_temperature_c": {
+        "avg": {
+          "field": "ambient_temperature_c"
+        }
+      },
+      "start_time": {
+        "min": {
+          "field": "@timestamp"
+        }
+      },
+      "end_time": {
+        "max": {
+          "field": "@timestamp"
+        }
+      }
+    }
+  }
+}'
+
+
