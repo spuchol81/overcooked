@@ -9,61 +9,59 @@ export $(cat $ENV_FILE | xargs)
 
 ########## Solution view ##########
 
-/opt/workshops/elastic-view.sh -v oblt
+#/opt/workshops/elastic-view.sh -v oblt
 
 
 ########### AI SETUP ###########
-/opt/workshops/elastic-llm.sh -k true
+#/opt/workshops/elastic-llm.sh -k true
 
-curl -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" -H "Content-Type: application/json" -XPUT "http://elasticsearch-es-http.default.svc:9200/_index_template/my-cook-sensor-index-template" -d \
-'{
-  "index_templates": [
-    {
-      "name": "my-cook-sensor-index-template",
-      "index_template": {
-        "index_patterns": [
-          "metrics-cook_sensors-*"
-        ],
-        "template": {
-          "settings": {},
-          "mappings": {
-            "properties": {
-              "cook_id": {
-                "time_series_dimension": true,
-                "type": "keyword"
-              },
-              "@timestamp": {
-                "type": "date"
-              },
-              "meat_temperature_c": {
-                "type": "half_float"
-              },
-              "recipe": {
-                "time_series_dimension": true,
-                "type": "keyword"
-              },
-              "ambient_temperature_c": {
-                "type": "half_float"
-              }
-            }
-          },
-          "lifecycle": {
-            "enabled": false
-          }
+curl -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" \
+     -H "Content-Type: application/json" \
+     -X PUT "http://elasticsearch-es-http.default.svc:9200/_index_template/my-cook-sensor-index-template" \
+     -d '
+{
+  "index_patterns": [
+    "metrics-cook_sensors-*"
+  ],
+  "data_stream": {
+    "hidden": false,
+    "allow_custom_routing": false
+  },
+  "priority": 500,
+  "composed_of": [],
+  "template": {
+    "settings": {
+      "index.mode": "time_series"
+    },
+    "mappings": {
+      "properties": {
+        "@timestamp": {
+          "type": "date"
         },
-        "composed_of": [],
-        "priority": 500,
-        "_meta": {
-          "description": "Template for my weather cook. sensor data"
+        "cook_id": {
+          "type": "keyword",
+          "time_series_dimension": true
         },
-        "data_stream": {
-          "hidden": false,
-          "allow_custom_routing": false
+        "recipe": {
+          "type": "keyword",
+          "time_series_dimension": true
+        },
+        "meat_temperature_c": {
+          "type": "half_float",
+          "time_series_metric": "gauge"
+        },
+        "ambient_temperature_c": {
+          "type": "half_float",
+          "time_series_metric": "gauge"
         }
       }
     }
-  ]
+  },
+  "_meta": {
+    "description": "Template for my cook sensor data"
+  }
 }'
+
 
 python3 generate_cook.py
 for file in cooks_2025/*.ndjson;
