@@ -132,7 +132,7 @@ curl -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" \
                 "start": "start_time",
                 "end": "end_time"
               },
-              "script": "(Math.round((params.end - params.start) / 60000)"
+              "script": "(Math.round((params.end - params.start) / 60000))"
           }
         }
   }
@@ -235,7 +235,8 @@ curl -u "elastic:changeme" -H "Content-Type: application/json" -H "kbn-xsrf: tru
 '{
   "data_view": {
     "title": "cooking_time_prediction",
-    "name": "Cooking Time Predictions (ML)"
+    "name": "Cooking Time Predictions (ML)",
+    "timeFieldName": "start_time"
   }
 }'
 
