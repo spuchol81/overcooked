@@ -136,7 +136,7 @@ curl -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" \
           }
         }
   }
-}'
+}}'
 
 curl -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" \
      -H "Content-Type: application/json" \
@@ -188,6 +188,56 @@ curl -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" \
   "allow_lazy_start": false
 }'
 
+curl -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" \
+     -X POST \
+     "http://elasticsearch-es-http.default.svc:9200/_ml/data_frame/analytics/cooking_time_prediction/_start"
+
+while true; do
+  STATE=$(curl -s -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" \
+    "http://elasticsearch-es-http.default.svc:9200/_ml/data_frame/analytics/cooking_time_prediction/_stats" \
+    | jq -r '.data_frame_analytics[0].state')
+
+  echo "Current ml job state: $STATE"
+
+  if [ "$STATE" = "stopped" ]; then
+    echo "Job finished."
+    break
+  fi
+
+  if [ "$STATE" = "failed" ]; then
+    echo "Job failed."
+    exit 1
+  fi
+
+  sleep 2
+done
+
+#### data views ####
+curl -u "elastic:changeme" -H "Content-Type: application/json" -H "kbn-xsrf: true" -H "x-elastic-internal-origin: Kibana" -XPOST "http://kubernetes-vm:30001/api/data_views/data_view" -d \
+'{
+    "data_view": {
+      "title": "metrics-cook_sensors-*",
+      "name": "Cook Sensors (Raw)",
+      "timeFieldName": "@timestamp"
+    }
+}'
+
+curl -u "elastic:changeme" -H "Content-Type: application/json" -H "kbn-xsrf: true" -H "x-elastic-internal-origin: Kibana" -XPOST "http://kubernetes-vm:30001/api/data_views/data_view" -d \
+'{
+    "data_view": {
+      "title": "2025_cooking_stats",
+      "name": "Cooking Stats (Transform)",
+      "timeFieldName": "start_time"
+    }
+}'
+
+curl -u "elastic:changeme" -H "Content-Type: application/json" -H "kbn-xsrf: true" -H "x-elastic-internal-origin: Kibana" -XPOST "http://kubernetes-vm:30001/api/data_views/data_view" -d \
+'{
+  "data_view": {
+    "title": "cooking_time_prediction",
+    "name": "Cooking Time Predictions (ML)"
+  }
+}'
 
 
 
