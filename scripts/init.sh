@@ -15,6 +15,7 @@ export $(cat $ENV_FILE | xargs)
 ########### AI SETUP ###########
 /opt/workshops/elastic-llm.sh -k true
 
+####push 2025 BBQ data #####
 curl -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" \
      -H "Content-Type: application/json" \
      -X PUT "http://elasticsearch-es-http.default.svc:9200/_index_template/my-cook-sensor-index-template" \
@@ -31,7 +32,6 @@ curl -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" \
   "composed_of": [],
   "template": {
     "settings": {
-      "index.mode": "time_series"
     },
     "mappings": {
       "properties": {
@@ -63,11 +63,13 @@ curl -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" \
 }'
 
 
-python3 generate_cook.py
+cd overcooked
 for file in cooks_2025/*.ndjson;
 do                                                                          
 curl -H "Content-Type: application/x-ndjson" -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" -XPOST "http://elasticsearch-es-http.default.svc:9200/metrics-cook_sensors-2025/_bulk" --data-binary "@$file"
 done
+
+####### create transform for ml job ###########
 
 curl -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" \
      -H "Content-Type: application/json" \
@@ -127,6 +129,12 @@ curl -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" \
     }
   }
 }'
+
+curl -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" \
+     -H "Content-Type: application/json" \
+     -X POST "http://elasticsearch-es-http.default.svc:9200/_transform/2025_cooking_stats/_start"
+
+sleep 5
 
 curl -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" \
      -H "Content-Type: application/json" \
