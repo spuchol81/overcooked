@@ -125,6 +125,14 @@ curl -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" \
             "min": {
               "field": "meat_temperature_c"
             }
+          },
+          "total_duration_minutes": {
+            "bucket_script": {
+              "buckets_path": {
+                "start": "start_time",
+                "end": "end_time"
+              },
+              "script": "(params.end - params.start) / 60000"
           }
         }
   }
@@ -168,10 +176,10 @@ curl -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" \
   "analyzed_fields": {
     "includes": [
       "ambient_temperature_c.avg",
-      "cook_id.keyword",
+      "cook_id",
       "meat_temperature_c.max",
       "meat_temperature_c.min",
-      "recipe.keyword",
+      "recipe",
       "total_duration_minutes"
     ]
   },
