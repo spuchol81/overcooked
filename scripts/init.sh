@@ -100,33 +100,33 @@ curl -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" \
         }
       }
     },
-    "aggregations": {
-      "max_meat_temperature_c": {
-        "max": {
-          "field": "meat_temperature_c"
+      "aggregations": {
+          "meat_temperature_c.max": {
+            "max": {
+              "field": "meat_temperature_c"
+            }
+          },
+          "end_time": {
+            "max": {
+              "field": "@timestamp"
+            }
+          },
+          "start_time": {
+            "min": {
+              "field": "@timestamp"
+            }
+          },
+          "ambient_temperature_c.avg": {
+            "avg": {
+              "field": "ambient_temperature_c"
+            }
+          },
+          "meat_temperature_c.min": {
+            "min": {
+              "field": "meat_temperature_c"
+            }
+          }
         }
-      },
-      "min_meat_temperature_c": {
-        "min": {
-          "field": "meat_temperature_c"
-        }
-      },
-      "avg_ambient_temperature_c": {
-        "avg": {
-          "field": "ambient_temperature_c"
-        }
-      },
-      "start_time": {
-        "min": {
-          "field": "@timestamp"
-        }
-      },
-      "end_time": {
-        "max": {
-          "field": "@timestamp"
-        }
-      }
-    }
   }
 }'
 
