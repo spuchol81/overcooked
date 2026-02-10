@@ -132,7 +132,7 @@ curl -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" \
                 "start": "start_time",
                 "end": "end_time"
               },
-              "script": "(params.end - params.start) / 60000"
+              "script": "(Math.round((params.end - params.start) / 60000)"
           }
         }
   }
