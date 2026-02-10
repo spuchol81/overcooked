@@ -9,11 +9,11 @@ export $(cat $ENV_FILE | xargs)
 
 ########## Solution view ##########
 
-#/opt/workshops/elastic-view.sh -v oblt
+/opt/workshops/elastic-view.sh -v oblt
 
 
 ########### AI SETUP ###########
-#/opt/workshops/elastic-llm.sh -k true
+/opt/workshops/elastic-llm.sh -k true
 
 curl -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" \
      -H "Content-Type: application/json" \
