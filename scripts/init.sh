@@ -239,6 +239,100 @@ curl -u "elastic:changeme" -H "Content-Type: application/json" -H "kbn-xsrf: tru
   }
 }'
 
+curl -u "elastic:changeme" -H "Content-Type: application/json" -H "kbn-xsrf: true" -H "x-elastic-internal-origin: Kibana" -XPOST "http://kubernetes-vm:30001/api/data_views/data_view" -d \
+'{
+  "data_view": {
+    "title": "live-cooking",
+    "name": "Live cooking data"
+  }
+}'
+
+MODEL_ID=$(curl -s -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" \
+  "http://elasticsearch-es-http.default.svc:9200/_ml/trained_models?tags=cooking_time_prediction" \
+  | jq -r '.trained_model_configs[0].model_id')
+
+if [ -z "$MODEL_ID" ] || [ "$MODEL_ID" = "null" ]; then
+  echo "No trained model found for cooking_time_prediction"
+  exit 1
+fi
+
+curl -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" \
+     -H "Content-Type: application/json" \
+     -X PUT "http://elasticsearch-es-http.default.svc:9200/_ingest/pipeline/cooking_time_inference" \
+     -d @- <<EOF
+{
+  "description": "Predict cooking time using DFA regression model $MODEL_ID",
+  "processors": [
+    {
+      "inference": {
+        "model_id": "$MODEL_ID",
+        "ignore_failure": false,
+        "target_field": "ml.inference.total_duration_minutes_prediction",
+        "inference_config": {
+          "regression": {
+            "results_field": "total_duration_minutes_prediction",
+            "num_top_feature_importance_values": 0
+          }
+        }
+      }
+    }
+  ]
+}
+EOF
+
+
+####prepare for live data #####
+curl -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" \
+     -H "Content-Type: application/json" \
+     -X PUT "http://elasticsearch-es-http.default.svc:9200/_index_template/my-livecooking-index-template" \
+     -d '
+{
+  "index_patterns": [
+    "live-cooking"
+  ],
+  "data_stream": {
+    "hidden": false,
+    "allow_custom_routing": false
+  },
+  "priority": 500,
+  "composed_of": [],
+  "template": {
+    "settings": {
+    "index": {
+              "default_pipeline": "cooking_time_inference"
+            }
+    },
+    "mappings": {
+      "properties": {
+        "@timestamp": {
+          "type": "date"
+        },
+        "cook_id": {
+          "type": "keyword",
+          "time_series_dimension": true
+        },
+        "recipe": {
+          "type": "keyword",
+          "time_series_dimension": true
+        },
+        "meat_temperature_c": {
+          "type": "half_float",
+          "time_series_metric": "gauge"
+        },
+        "ambient_temperature_c": {
+          "type": "half_float",
+          "time_series_metric": "gauge"
+        }
+      }
+    }
+  },
+  "_meta": {
+    "description": "Template for my cook sensor data"
+  }
+}'
+
+
+
 
 
 
