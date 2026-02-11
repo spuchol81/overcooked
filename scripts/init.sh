@@ -175,10 +175,6 @@ curl -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" \
   },
   "analyzed_fields": {
     "includes": [
-      "ambient_temperature_c.avg",
-      "cook_id",
-      "meat_temperature_c.max",
-      "meat_temperature_c.min",
       "recipe",
       "total_duration_minutes"
     ]
