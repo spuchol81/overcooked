@@ -209,38 +209,43 @@ while true; do
 done
 
 #### data views ####
-curl -u "elastic:changeme" -H "Content-Type: application/json" -H "kbn-xsrf: true" -H "x-elastic-internal-origin: Kibana" -XPOST "http://kubernetes-vm:30001/api/data_views/data_view/metrics-cook_sensors" -d \
+curl -u "elastic:changeme" -H "Content-Type: application/json" -H "kbn-xsrf: true" -H "x-elastic-internal-origin: Kibana" -XPOST "http://kubernetes-vm:30001/api/data_views/data_view" -d \
 '{
     "data_view": {
+      "id": "metrics-cook_sensors",
       "title": "metrics-cook_sensors-*",
       "name": "Cook Sensors (Raw)",
       "timeFieldName": "@timestamp"
     }
 }'
 
-curl -u "elastic:changeme" -H "Content-Type: application/json" -H "kbn-xsrf: true" -H "x-elastic-internal-origin: Kibana" -XPOST "http://kubernetes-vm:30001/api/data_views/data_view/2025_cooking_stats" -d \
+curl -u "elastic:changeme" -H "Content-Type: application/json" -H "kbn-xsrf: true" -H "x-elastic-internal-origin: Kibana" -XPOST "http://kubernetes-vm:30001/api/data_views/data_view" -d \
 '{
     "data_view": {
+      "id": "2025_cooking_stats",
       "title": "2025_cooking_stats",
       "name": "Cooking Stats (Transform)",
       "timeFieldName": "start_time"
     }
 }'
 
-curl -u "elastic:changeme" -H "Content-Type: application/json" -H "kbn-xsrf: true" -H "x-elastic-internal-origin: Kibana" -XPOST "http://kubernetes-vm:30001/api/data_views/data_view/cooking_time_prediction" -d \
+curl -u "elastic:changeme" -H "Content-Type: application/json" -H "kbn-xsrf: true" -H "x-elastic-internal-origin: Kibana" -XPOST "http://kubernetes-vm:30001/api/data_views/data_view" -d \
 '{
   "data_view": {
+    "id": "2025_cooking_stats",
     "title": "cooking_time_prediction",
     "name": "Cooking Time Predictions (ML)",
     "timeFieldName": "start_time"
   }
 }'
 
-curl -u "elastic:changeme" -H "Content-Type: application/json" -H "kbn-xsrf: true" -H "x-elastic-internal-origin: Kibana" -XPOST "http://kubernetes-vm:30001/api/data_views/data_view/live-cooking" -d \
+curl -u "elastic:changeme" -H "Content-Type: application/json" -H "kbn-xsrf: true" -H "x-elastic-internal-origin: Kibana" -XPOST "http://kubernetes-vm:30001/api/data_views/data_view" -d \
 '{
   "data_view": {
+    "id": "live-cooking",
     "title": "live-cooking",
     "name": "Live cooking data"
+    "timeFieldName": "@timestamp"
   }
 }'
 
