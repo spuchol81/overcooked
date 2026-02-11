@@ -232,7 +232,7 @@ curl -u "elastic:changeme" -H "Content-Type: application/json" -H "kbn-xsrf: tru
 curl -u "elastic:changeme" -H "Content-Type: application/json" -H "kbn-xsrf: true" -H "x-elastic-internal-origin: Kibana" -XPOST "http://kubernetes-vm:30001/api/data_views/data_view" -d \
 '{
   "data_view": {
-    "id": "2025_cooking_stats",
+    "id": "cooking_time_prediction",
     "title": "cooking_time_prediction",
     "name": "Cooking Time Predictions (ML)",
     "timeFieldName": "start_time"
@@ -244,7 +244,7 @@ curl -u "elastic:changeme" -H "Content-Type: application/json" -H "kbn-xsrf: tru
   "data_view": {
     "id": "live-cooking",
     "title": "live-cooking",
-    "name": "Live cooking data"
+    "name": "Live cooking data",
     "timeFieldName": "@timestamp"
   }
 }'
