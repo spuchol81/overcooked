@@ -59,3 +59,43 @@ def generate_all_phases(cook_id):
 
 def ingest_phase(cook_id, phase):
     filename = f"{cook_id}_phase_{phase}.ndjson"
+    if not os.path.exists(filename):
+        raise Exception(f"{filename} not found. Run generate mode first.")
+
+    api_key = load_apikey()
+
+    headers = {
+        "Content-Type": "application/x-ndjson",
+        "Authorization": f"ApiKey {api_key}"
+    }
+
+    with open(filename, "rb") as f:
+        response = requests.post(
+            f"{ES_URL}/{INDEX_NAME}/_bulk",
+            headers=headers,
+            data=f
+        )
+
+    resp_json = response.json()
+
+    if response.status_code >= 300 or resp_json.get("errors"):
+        print("Bulk ingestion failed:")
+        print(resp_json)
+    else:
+        print(f"Successfully ingested Phase {phase}.")
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--cook_id", type=str, default="demo-cook-01")
+    parser.add_argument("--mode", choices=["generate", "ingest"], required=True)
+    parser.add_argument("--phase", type=int, choices=[1, 2])
+    args = parser.parse_args()
+
+    if args.mode == "generate":
+        generate_all_phases(args.cook_id)
+
+    elif args.mode == "ingest":
+        if not args.phase:
+            raise Exception("You must specify --phase 1 or 2 for ingest mode.")
+        ingest_phase(args.cook_id, args.phase)
