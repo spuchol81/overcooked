@@ -64,11 +64,11 @@ retry_command_lin() {
 
 ########## Solution view ##########
 
-#/opt/workshops/elastic-view.sh -v oblt
+/opt/workshops/elastic-view.sh -v oblt
 
 
 ########### AI SETUP ###########
-#/opt/workshops/elastic-llm.sh -k true
+/opt/workshops/elastic-llm.sh -k true
 
 ####push 2025 BBQ data #####
 curl -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" \
