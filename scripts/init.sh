@@ -420,6 +420,9 @@ curl -u "elastic:changeme" -H "Content-Type: application/json" -H "kbn-xsrf: tru
      -d @- <<EOF
       {
         "name": "stall_detected",
+        "tags": [
+        "BBQ"
+      ],
             "params": {
               "searchType": "esqlQuery",
               "timeWindowSize": 4,
