@@ -7,6 +7,61 @@ ENV_FILE_PARENT_DIR=/home/kubernetes-vm
 ENV_FILE=$ENV_FILE_PARENT_DIR/env
 export $(cat $ENV_FILE | xargs)
 
+############functions######@
+
+bulk_upload_file() {
+  local file="$1"
+  local ES_URL="$2"
+  local response_file
+  response_file=$(mktemp)
+
+  http_status=$(curl -sS \
+    -o "$response_file" \
+    -w "%{http_code}" \
+    -X POST "$ES_URL" \
+    -H "Content-Type: application/x-ndjson" \
+    -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" \
+    --data-binary "@$file")
+
+  # Check HTTP status
+  if [[ ! "$http_status" =~ ^2 ]]; then
+    echo "HTTP error $http_status for $file"
+    rm -f "$response_file"
+    return 1
+  fi
+
+  # Check Elasticsearch bulk errors flag
+  if jq -e '.errors == false' "$response_file" >/dev/null 2>&1; then
+    echo "Bulk upload successful: $file"
+    rm -f "$response_file"
+    return 0
+  else
+    echo "Bulk API reported errors in $file"
+    rm -f "$response_file"
+    return 1
+  fi
+}
+
+retry_command_lin() {
+  local retries=5
+  local delay=2
+  local count=1
+
+  until "$@"; do
+    if (( count >= retries )); then
+      echo "Command failed after $retries attempts."
+      return 1
+    fi
+
+    sleep_time=$((delay ** count))
+    echo "Retry $count/$retries in ${sleep_time}s..."
+    sleep "$sleep_time"
+    ((count++))
+  done
+}
+
+
+
 ########## Solution view ##########
 
 #/opt/workshops/elastic-view.sh -v oblt
@@ -64,9 +119,11 @@ curl -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" \
 
 
 cd overcooked
+
 for file in cooks_2025/*.ndjson;
 do                                                                          
-curl -H "Content-Type: application/x-ndjson" -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" -XPOST "http://elasticsearch-es-http.default.svc:9200/metrics-cook_sensors-2025/_bulk" --data-binary "@$file"
+#curl -H "Content-Type: application/x-ndjson" -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" -XPOST "http://elasticsearch-es-http.default.svc:9200/metrics-cook_sensors-2025/_bulk" --data-binary "@$file"
+retry_command_lin bulk_upload_file "$file" "http://elasticsearch-es-http.default.svc:9200/metrics-cook_sensors-2025/_bulk" || exit 1
 done
 
 ####### create transform for ml job ###########
