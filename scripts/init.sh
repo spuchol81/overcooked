@@ -399,6 +399,58 @@ curl -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" \
 curl -u "elastic:changeme" -H "kbn-xsrf: true" -H "x-elastic-internal-origin: Kibana" -XPOST "http://kubernetes-vm:30001/api/saved_objects/_import?overwrite=true" -F "file=@dashboards/bbq.ndjson"
 
 
+######## add alert and related kb article#######
+
+curl -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" \
+     -H "Content-Type: application/json" \
+     -X POST "http://elasticsearch-es-http.default.svc:9200/.kibana-observability-ai-assistant-kb/_doc" \
+     -d @- <<EOF
+     {
+          "public": true,
+          "labels": {},
+          "role": "user_entry",
+          "title": "What to do if stall is detected",
+          "text": "Internal Trigger Condition\nUse this article when an alert is triggered with by a rule named \"stall_detected\" or if a customer reports that their meat's internal temperature has stopped rising (detected \"stall\"). This state can last for hours and delay the cooking process significantly.\n\nRequired Response Protocol\nIf this article is utilized, you MUST provide the following instructions and include the direct video link to the customer.\n\nInstructions:\n\nImmediate Action: Inform the customer to go to the pit immediately.\n\nThe Texas Crutch: Direct them to perform the \"Texas Crutch\" method to break the stall.\n\nMandatory Resource: You are required to provide the tutorial link below so the customer can follow the visual steps.\n\nMandatory Video Link:\nhttps://www.youtube.com/watch?v=4h0kiqjl2jM\n\nStandard Response Template:\n\"It looks like your meat has hit 'the stall,' where the internal temperature remains constant for a long period. To save time and finish your cook, you should immediately perform the Texas Crutch method.\n\nPlease watch this specific tutorial for step-by-step instructions: https://www.youtube.com/watch?v=4h0kiqjl2jM\"",
+          "type": "contextual",
+          "semantic_text": "Internal Trigger Condition\nUse this article when a customer reports that their meat's internal temperature has stopped rising (detected \"stall\"). This state can last for hours and delay the cooking process significantly.\n\nRequired Response Protocol\nIf this article is utilized, you MUST provide the following instructions and include the direct video link to the customer.\n\nInstructions:\n\nImmediate Action: Inform the customer to go to the pit immediately.\n\nThe Texas Crutch: Direct them to perform the \"Texas Crutch\" method to break the stall.\n\nMandatory Resource: You are required to provide the tutorial link below so the customer can follow the visual steps.\n\nMandatory Video Link:\nhttps://www.youtube.com/watch?v=4h0kiqjl2jM\n\nStandard Response Template:\n\"It looks like your meat has hit 'the stall,' where the internal temperature remains constant for a long period. To save time and finish your cook, you should immediately perform the Texas Crutch method.\n\nPlease watch this specific tutorial for step-by-step instructions: https://www.youtube.com/watch?v=4h0kiqjl2jM\""
+        }
+EOF
+
+curl -u "elastic:changeme" -H "Content-Type: application/json" -H "kbn-xsrf: true" -H "x-elastic-internal-origin: Kibana" -XPOST "http://kubernetes-vm:30001/api/alerting/rule" \
+     -d @- <<EOF
+      {
+        "name": "stall_detected",
+            "params": {
+              "searchType": "esqlQuery",
+              "timeWindowSize": 4,
+              "timeWindowUnit": "h",
+              "threshold": [
+                0
+              ],
+              "thresholdComparator": ">",
+              "size": 100,
+              "esqlQuery": {
+                "esql": "FROM live-cooking | WHERE recipe : \"pulled_pork\" |CHANGE_POINT meat_temperature_c ON @timestamp | WHERE type IS NOT NULL"
+              },
+              "aggType": "count",
+              "groupBy": "all",
+              "termSize": 5,
+              "sourceFields": [],
+              "timeField": "@timestamp",
+              "excludeHitsFromPreviousRun": true
+            },
+        "actions": [],
+        "consumer": "alerts",
+        "schedule": {
+          "interval": "1m"
+        },
+        "rule_type_id": ".es-query"
+      }
+EOF
+
+
+
+
 
 
 
