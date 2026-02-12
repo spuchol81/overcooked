@@ -62,13 +62,11 @@ retry_command_lin() {
 
 
 
-########## Solution view ##########
 
-/opt/workshops/elastic-view.sh -v oblt
 
 
 ########### AI SETUP ###########
-/opt/workshops/elastic-llm.sh -k true
+/opt/workshops/elastic-llm.sh -k false
 
 ####push 2025 BBQ data #####
 curl -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" \
@@ -392,6 +390,10 @@ curl -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" \
 
 
 curl -u "elastic:changeme" -H "kbn-xsrf: true" -H "x-elastic-internal-origin: Kibana" -XPOST "http://kubernetes-vm:30001/api/saved_objects/_import?overwrite=true" -F "file=@dashboards/bbq.ndjson"
+
+########## Solution view ##########
+
+/opt/workshops/elastic-view.sh -v oblt
 
 
 
