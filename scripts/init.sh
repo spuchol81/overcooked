@@ -7,7 +7,7 @@ ENV_FILE_PARENT_DIR=/home/kubernetes-vm
 ENV_FILE=$ENV_FILE_PARENT_DIR/env
 export $(cat $ENV_FILE | xargs)
 
-############functions######@
+############functions######
 
 bulk_upload_file() {
   local file="$1"
@@ -398,6 +398,11 @@ curl -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" \
   }
 }'
 
+# init datastream to avoid bugs in dashboard
+curl -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" \
+     -H "Content-Type: application/json" \
+     -X PUT "http://elasticsearch-es-http.default.svc:9200/_data_stream/live-cooking"
+
 
 
 
@@ -461,6 +466,79 @@ curl -u "elastic:changeme" -H "Content-Type: application/json" -H "kbn-xsrf: tru
       }
 EOF
 
+curl -u "elastic:changeme" -H "Content-Type: application/json" -H "kbn-xsrf: true" -H "x-elastic-internal-origin: Kibana" -XPOST "http://kubernetes-vm:30001/api/alerting/rule" \
+     -d @- <<EOF
+      {
+        "name": "order_breach",
+        "tags": [
+        "orders"
+      ],
+      "params": {
+        "searchConfiguration": {
+          "query": {
+            "query": "status : \"pending\" and @timestamp < now-10s",
+            "language": "kuery"
+          },
+          "index": "orders"
+        },
+        "timeField": "@timestamp",
+        "searchType": "searchSource",
+        "timeWindowSize": 10,
+        "timeWindowUnit": "m",
+        "threshold": [
+          0
+        ],
+        "thresholdComparator": ">",
+        "size": 100,
+        "aggType": "count",
+        "groupBy": "all",
+        "termSize": 5,
+        "excludeHitsFromPreviousRun": false,
+        "sourceFields": []
+      },
+        "actions": [],
+        "consumer": "alerts",
+        "schedule": {
+          "interval": "1m"
+        },
+        "rule_type_id": ".es-query"
+      }
+EOF
+
+curl -u "elastic:changeme" -H "Content-Type: application/json" -H "kbn-xsrf: true" -H "x-elastic-internal-origin: Kibana" -XPOST "http://kubernetes-vm:30001/api/alerting/rule" \
+     -d @- <<EOF
+      {
+        "name": "food_eta_breach",
+        "tags": [
+        "orders"
+      ],
+      "params": {
+        "searchType": "esqlQuery",
+        "timeWindowSize": 4,
+        "timeWindowUnit": "h",
+        "threshold": [
+          0
+        ],
+        "thresholdComparator": ">",
+        "size": 100,
+        "esqlQuery": {
+          "esql": "FROM live-cooking,orders | STATS  last_point= max(@timestamp), first_point=min(@timestamp) by cook_id,ml.inference.total_duration_minutes_prediction.total_duration_minutes_prediction | EVAL timeneed=ml.inference.total_duration_minutes_prediction.total_duration_minutes_prediction - DATE_DIFF(\"minute\",first_point,last_point) | LOOKUP JOIN orders ON cook_id | EVAL timeremaining= DATE_DIFF(\"minute\", NOW(),eta) | WHERE timeneed > timeremaining"
+        },
+        "aggType": "count",
+        "groupBy": "all",
+        "termSize": 5,
+        "sourceFields": [],
+        "timeField": "@timestamp",
+        "excludeHitsFromPreviousRun": true
+      },
+        "actions": [],
+        "consumer": "alerts",
+        "schedule": {
+          "interval": "1m"
+        },
+        "rule_type_id": ".es-query"
+      }
+EOF
 
 curl -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" \
      -H "Content-Type: application/json" \
@@ -490,6 +568,8 @@ curl -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" \
     }
   }
 }'
+
+
 
 
 

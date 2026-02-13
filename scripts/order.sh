@@ -25,8 +25,7 @@ curl -s -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" \
      -X POST "http://elasticsearch-es-http.default.svc:9200/orders/_doc" \
      -d @- <<EOF
 {
-    "order_id": "$ORDER_ID",
-    "cook_id": "unassigned",
+    "cook_id": "$ORDER_ID",
     "recipe": "$RECIPE",
     "eta": "$ETA",
     "status": "pending",

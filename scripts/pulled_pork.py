@@ -8,6 +8,7 @@ from datetime import datetime, timedelta
 ES_URL = "http://elasticsearch-es-http.default.svc:9200"
 INDEX_NAME = "live-cooking"
 ENV_FILE = "/home/kubernetes-vm/env"
+ORDERS_INDEX = "orders"
 
 
 def load_apikey():
@@ -16,6 +17,38 @@ def load_apikey():
             if line.startswith("ELASTICSEARCH_APIKEY"):
                 return line.strip().split("=", 1)[1]
     raise Exception("ELASTICSEARCH_APIKEY not found in env file")
+
+def ack_order(cook_id):
+    api_key = load_apikey()
+
+    headers = {
+        "Authorization": f"ApiKey {api_key}",
+        "Content-Type": "application/json"
+    }
+    payload = {
+        "query": {
+            "term": {
+                "order_id": cook_id 
+            }
+        },
+        "script": {
+            "source": "ctx._source.status = 'ongoing'", 
+            "lang": "painless"
+        }
+    }
+
+    response = requests.post(
+        f"{ES_URL}/{ORDERS_INDEX}/_update_by_query",
+        headers=headers,
+        json=payload
+    )
+
+    if response.status_code >= 300:
+        print("order ack failed:")
+        print(response.text)
+    else:
+        print("order ack successful.")
+        print(response.json())
 
 
 def generate_all_phases(cook_id):
@@ -99,3 +132,5 @@ if __name__ == "__main__":
         if not args.phase:
             raise Exception("You must specify --phase 1 or 2 for ingest mode.")
         ingest_phase(args.cook_id, args.phase)
+        if args.phase==1:
+            ack_order(args.cook_id)
