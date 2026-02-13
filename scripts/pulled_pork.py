@@ -28,7 +28,7 @@ def ack_order(cook_id):
     payload = {
         "query": {
             "term": {
-                "order_id": cook_id 
+                "cook_id": cook_id 
             }
         },
         "script": {
