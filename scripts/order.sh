@@ -19,10 +19,3 @@ curl -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" \
     "eta": "$ETA"
 }
 EOF
-
-##########notes
-FROM live-cooking 
-| STATS  last_point= max(@timestamp), first_point=min(@timestamp) by cook_id,ml.inference.total_duration_minutes_prediction.total_duration_minutes_prediction
-| EVAL timeneed=ml.inference.total_duration_minutes_prediction.total_duration_minutes_prediction - DATE_DIFF("minute",first_point,last_point)
-| LOOKUP JOIN orders ON cook_id
-| EVAL timeremaining= DATE_DIFF("minute", NOW(),eta)
