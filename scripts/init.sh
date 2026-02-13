@@ -304,6 +304,16 @@ curl -u "elastic:changeme" -H "Content-Type: application/json" -H "kbn-xsrf: tru
   }
 }'
 
+curl -u "elastic:changeme" -H "Content-Type: application/json" -H "kbn-xsrf: true" -H "x-elastic-internal-origin: Kibana" -XPOST "http://kubernetes-vm:30001/api/data_views/data_view" -d \
+'{
+  "data_view": {
+    "id": "orders",
+    "title": "orders",
+    "name": "orders",
+    "timeFieldName": "@timestamp"
+  }
+}'
+
 MODEL_ID=$(curl -s -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" \
   "http://elasticsearch-es-http.default.svc:9200/_ml/trained_models?tags=cooking_time_prediction" \
   | jq -r '.trained_model_configs[0].model_id')
@@ -468,11 +478,14 @@ curl -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" \
       "recipe": {
         "type": "keyword"
       },
-      "timestamp_ordered": {
+      "@timestamp": {
         "type": "date"
       },
       "eta": {
         "type": "date"
+      },
+      "status": {
+        "type": "keyword"
       }
     }
   }
