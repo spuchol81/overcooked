@@ -452,6 +452,33 @@ curl -u "elastic:changeme" -H "Content-Type: application/json" -H "kbn-xsrf: tru
 EOF
 
 
+curl -H "Authorization: ApiKey $ELASTICSEARCH_APIKEY" \
+     -H "Content-Type: application/json" \
+     -X PUT "http://elasticsearch-es-http.default.svc:9200/orders" \
+     -d '
+{ 
+    "settings":{
+    "index.mode": "lookup"
+  },
+  "mappings": {
+    "properties": {
+      "cook_id": {
+        "type": "keyword"
+      },
+      "recipe": {
+        "type": "keyword"
+      },
+      "timestamp_ordered": {
+        "type": "date"
+      },
+      "eta": {
+        "type": "date"
+      }
+    }
+  }
+}'
+
+
 
 
 
