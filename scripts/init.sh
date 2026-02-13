@@ -460,7 +460,7 @@ curl -u "elastic:changeme" -H "Content-Type: application/json" -H "kbn-xsrf: tru
         "actions": [],
         "consumer": "alerts",
         "schedule": {
-          "interval": "1m"
+          "interval": "10s"
         },
         "rule_type_id": ".es-query"
       }
@@ -499,7 +499,7 @@ curl -u "elastic:changeme" -H "Content-Type: application/json" -H "kbn-xsrf: tru
         "actions": [],
         "consumer": "alerts",
         "schedule": {
-          "interval": "1m"
+          "interval": "10s"
         },
         "rule_type_id": ".es-query"
       }
@@ -534,7 +534,7 @@ curl -u "elastic:changeme" -H "Content-Type: application/json" -H "kbn-xsrf: tru
         "actions": [],
         "consumer": "alerts",
         "schedule": {
-          "interval": "1m"
+          "interval": "10s"
         },
         "rule_type_id": ".es-query"
       }
